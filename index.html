@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Everything About Words</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Everything About Words</h1>
+            <p class="subtitle">A Repository of Psycholinguistic Norms</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filters main-filters">
+            <span class="filter-label">Language:</span>
+            <button class="filter-btn lang-btn active" data-lang="all">All</button>
+            <button class="filter-btn lang-btn" data-lang="English">English</button>
+            <button class="filter-btn lang-btn" data-lang="Chinese">Chinese</button>
+        </div>
+
+        <div class="filters sub-filters" id="category-container">
+            <span class="filter-label">Category:</span>
+            <button class="filter-btn cat-btn active" data-cat="all">All Topics</button>
+            </div>
+
+        <div id="dataset-list" class="dataset-grid">
+            </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Maintained by Researcher &copy; 2024</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

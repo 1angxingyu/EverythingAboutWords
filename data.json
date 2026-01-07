@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "3783个二字词的心理语言学常模(AoA,Concreteness,Familiarity等)",
+    "language": "Chinese",
+    "category": "Comprehensive",
+    "year": "2021",
+    "description": "Song, D., & Li, D. (2021). Psycholinguistic norms for 3,783 two-character words in simplified Chinese. Sage Open, 11(4), 21582440211054495.",
+    "filename": "datasets/zh/Song2021.xlsx"
+  },
+  {
+    "id": 2,
+    "title": "19716个词的习得年龄评分常模(AoA)",
+    "language": "Chinese",
+    "category": "AoA",
+    "year": "2021",
+    "description": "Xu, X., Li, J., & Guo, S. (2021). Age of acquisition ratings for 19,716 simplified Chinese words. Behavior Research Methods, 53(2), 558-573.",
+    "filename": "datasets/zh/Xu2021.xlsx"
+  },
+  {
+    "id": 3,
+    "title": "11310个词的情绪效价与唤醒度评分常模(Valence,Arousal)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2022",
+    "description": "Xu, X., Li, J., & Chen, H. (2022). Valence and arousal ratings for 11,310 simplified Chinese words. Behavior research methods, 54(1), 26-41.",
+    "filename": "datasets/zh/Xu2022.xlsx"
+  },
+  {
+    "id": 4,
+    "title": "38000个词的情绪效价与唤醒度评分常模(Valence,Arousal)(model-generated ratings)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2024",
+    "description": "Wang, T., & Xu, X. (2024). The good, the bad, and the ambivalent: Extrapolating affective values for 38,000+ Chinese words via a computational model. Behavior Research Methods, 56(6), 5386-5405.",
+    "filename": "datasets/zh/Xu2024.xlsx"
+  },
+  {
+    "id": 5,
+    "title": "词汇具体程度评分常模(Concreteness)(model-generated ratings)",
+    "language": "Chinese",
+    "category": "Concreteness",
+    "year": "2025",
+    "description": "Wang, T., & Xu, X. (2025). A generative approach to extrapolate word concreteness ratings. Quarterly Journal of Experimental Psychology, 17470218251320641.",
+    "filename": "datasets/zh/Xu2025.xlsx"
+  },
+  {
+    "id": 6,
+    "title": "1200个二字词的心理语言学常模(Valence,Arousal等)",
+    "language": "Chinese",
+    "category": "Comprehensive",
+    "year": "2025",
+    "description": "Liu, J., Fan, L., Zhang, X., & Xu, Z. (2025). Affective and Psycholinguistic Norms for 1200 Two‐character Chinese Words. International Journal of Applied Linguistics.",
+    "filename": "datasets/zh/Liu2025.xlsx"
+  },
+  {
+    "id": 7,
+    "title": "4030个词的情感常模(Valence,Arousal等)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2024",
+    "description": "Ying, L., Ruyang, Y., Chuanbin, N., Yeqing, W., Qing, L., Yufan, Z., & Fei, G. (2024). ANCW: Affective norms for 4030 Chinese words. Behavior Research Methods, 56(5), 4893-4908.",
+    "filename": "datasets/zh/Lv2024.xlsx"
+  },
+  {
+    "id": 8,
+    "title": "8105个汉字和假字的词汇决策时间常模(Reaction Time)",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2025",
+    "description": "Wang, Y., Wang, Y., Chen, Q., & Keuleers, E. (2025). Simplified Chinese lexicon project: A lexical decision database with 8105 characters and 4864 pseudocharacters. Behavior Research Methods, 57(7), 1-19.",
+    "filename": "datasets/zh/Wang2025.csv"
+  },
+  {
+    "id": 9,
+    "title": "MELD-SCH词汇决策时间常模(Reaction Time)",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2018",
+    "description": "Tsang, Y. K., Huang, J., Lui, M., Xue, M., Chan, Y. W. F., Wang, S., & Chen, H. C. (2018). MELD-SCH: A megastudy of lexical decision in simplified Chinese. Behavior research methods, 50(5), 1763-1777.",
+    "filename": "datasets/zh/Tsang2017.csv"
+  },
+  {
+    "id": 10,
+    "title": "SUBTLEX-CH汉字频率常模(Frequency)",
+    "language": "Chinese",
+    "category": "Frequency",
+    "year": "2010",
+    "description": "Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese word and character frequencies based on film subtitles. PloS one, 5(6), e10729.",
+    "filename": "datasets/zh/Cai2010_char.xlsx"
+  },
+  {
+    "id": 11,
+    "title": "SUBTLEX-CH词汇频率常模(Frequency)",
+    "language": "Chinese",
+    "category": "Frequency",
+    "year": "2010",
+    "description": "Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese word and character frequencies based on film subtitles. PloS one, 5(6), e10729.",
+    "filename": "datasets/zh/Cai2010_word.xlsx"
+  }
+]

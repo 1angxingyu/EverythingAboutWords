@@ -1,0 +1,90 @@
+:root {
+    --primary-color: #2c3e50;
+    --accent-color: #3498db;
+    --bg-color: #f9fafa;
+    --card-bg: #ffffff;
+    --text-color: #333;
+    --text-light: #666;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+header {
+    background-color: #fff;
+    padding: 60px 0 40px;
+    border-bottom: 1px solid #eaeaea;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+}
+
+.subtitle {
+    color: var(--text-light);
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+/* 保持之前的 CSS 不变，替换/新增以下部分 */
+
+/* Filters */
+.filters {
+    margin: 20px 0; /* 减小间距 */
+    text-align: left; /* 左对齐看起来更像工具栏 */
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #eee;
+}
+
+.filter-label {
+    font-weight: 600;
+    margin-right: 15px;
+    color: var(--primary-color);
+    font-size: 0.9rem;
+}
+
+.filter-btn {
+    background: none;
+    border: 1px solid #e0e0e0;
+    padding: 6px 16px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    border-radius: 6px; /* 方圆角更现代 */
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s ease;
+    color: var(--text-light);
+}
+
+.filter-btn:hover {
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+}
+
+.filter-btn.active {
+    background-color: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+}
+
+/* 针对二级菜单稍微做一点样式区分 */
+.sub-filters .cat-btn.active {
+    background-color: var(--accent-color); /* 类别选中用蓝色，语言选中用深色 */
+    border-color: var(--accent-color);
+}
