@@ -78,13 +78,11 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'card';
             
             card.innerHTML = `
-                </p>
                 <span class="card-tag">${item.language} · ${item.category}</span>
                 <h2>${item.title}</h2>
                 <div class="card-meta">Year: ${item.year}</div>
                 <p class="card-desc">${item.description}</p>
                 <a href="${item.filename}" class="download-btn" download>↓ Download Data</a>
-                </p>
             `;
             
             listContainer.appendChild(card);

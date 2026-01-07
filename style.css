@@ -42,12 +42,11 @@ h1 {
     font-size: 1.1rem;
     font-weight: 300;
 }
-/* 保持之前的 CSS 不变，替换/新增以下部分 */
 
-/* Filters */
+/* Filters - 筛选器区域 */
 .filters {
-    margin: 20px 0; /* 减小间距 */
-    text-align: left; /* 左对齐看起来更像工具栏 */
+    margin: 20px 0;
+    text-align: left;
     padding-bottom: 20px;
     border-bottom: 1px dashed #eee;
 }
@@ -65,7 +64,7 @@ h1 {
     padding: 6px 16px;
     margin-right: 8px;
     margin-bottom: 8px;
-    border-radius: 6px; /* 方圆角更现代 */
+    border-radius: 6px;
     cursor: pointer;
     font-size: 0.85rem;
     transition: all 0.2s ease;
@@ -83,8 +82,107 @@ h1 {
     border-color: var(--primary-color);
 }
 
-/* 针对二级菜单稍微做一点样式区分 */
 .sub-filters .cat-btn.active {
-    background-color: var(--accent-color); /* 类别选中用蓝色，语言选中用深色 */
+    background-color: var(--accent-color);
     border-color: var(--accent-color);
+}
+
+/* =========================================
+   以下是新增/修改的核心部分，解决卡片拥挤问题
+   ========================================= */
+
+/* Grid Layout - 网格布局 */
+.dataset-grid {
+    display: grid;
+    /* 自动适应宽度，每列最小280px */
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    /* 【关键修改】加大间距，从20px改为30px */
+    gap: 30px; 
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+/* Card Styles - 卡片样式 */
+.card {
+    background: var(--card-bg);
+    border: 1px solid #eee; /* 极细的边框 */
+    border-radius: 12px;    /* 更圆润的角 */
+    padding: 25px;
+    
+    /* 【关键修改】添加阴影，增加层次感，让卡片不再“贴”在一起 */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02); 
+    
+    /* 让卡片内部元素垂直排列，把按钮顶到底部 */
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+    box-sizing: border-box; 
+    
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* 鼠标悬停时上浮 */
+    box-shadow: 0 12px 20px rgba(0,0,0,0.08); /* 悬停时加深阴影 */
+    border-color: var(--accent-color); /* 悬停时边框变色 */
+}
+
+.card-tag {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent-color);
+    font-weight: 700;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.card h2 {
+    font-size: 1.3rem;
+    margin: 5px 0 10px;
+    color: var(--primary-color);
+    line-height: 1.3;
+}
+
+.card-meta {
+    font-size: 0.85rem;
+    color: #999;
+    margin-bottom: 15px;
+    font-family: monospace; /* 用等宽字体显示年份，更有数据感 */
+}
+
+.card-desc {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 25px;
+    flex-grow: 1; /* 让描述部分占据剩余空间，把按钮推到底部 */
+}
+
+/* Download Button - 下载按钮 */
+.download-btn {
+    display: block;
+    text-align: center;
+    background-color: #f0f4f8;
+    color: var(--primary-color);
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+    margin-top: auto; /* 【关键】强制按钮位于卡片最底部 */
+}
+
+.download-btn:hover {
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 0;
+    color: #aaa;
+    font-size: 0.8rem;
+    border-top: 1px solid #eaeaea;
 }
