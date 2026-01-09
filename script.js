@@ -88,4 +88,56 @@ document.addEventListener('DOMContentLoaded', () => {
             listContainer.appendChild(card);
         });
     }
+    const likeBtn = document.getElementById('like-btn');
+    const likeCount = document.getElementById('like-count');
+    
+    // 【重要】请将 'everything-about-words-user' 替换为您自己的GitHub用户名或其他唯一字符串
+    // 这样可以确保您的计数器是独一无二的，不会跟别人的混在一起。
+    const NAMESPACE = 'everything-about-words-v1'; 
+    const KEY = 'likes';
+
+    // 1. 初始化：获取当前点赞数
+    fetch(`https://api.countapi.xyz/get/${NAMESPACE}/${KEY}`)
+        .then(res => res.json())
+        .then(res => {
+            likeCount.innerText = res.value || 0;
+        })
+        .catch(() => {
+            likeCount.innerText = '0'; // 如果API挂了，显示0
+        });
+
+    // 2. 检查本地存储：用户是否已经点过赞？
+    const hasLiked = localStorage.getItem('hasLiked');
+    if (hasLiked) {
+        likeBtn.classList.add('liked');
+        likeBtn.disabled = true; // 禁用按钮
+    }
+
+    // 3. 点击事件
+    likeBtn.addEventListener('click', () => {
+        // 如果已经点过，直接返回
+        if (likeBtn.classList.contains('liked')) return;
+
+        // UI 立即反馈（增加动画类）
+        likeBtn.classList.add('animating');
+        
+        // 调用 API 进行 +1 操作
+        fetch(`https://api.countapi.xyz/hit/${NAMESPACE}/${KEY}`)
+            .then(res => res.json())
+            .then(res => {
+                // 更新数字
+                likeCount.innerText = res.value;
+                
+                // 改变按钮样式
+                likeBtn.classList.add('liked');
+                likeBtn.disabled = true;
+                
+                // 记录到本地，防止刷新后重复点赞
+                localStorage.setItem('hasLiked', 'true');
+            })
+            .catch(err => {
+                console.error('Like failed:', err);
+                alert('Connection error. Please try again later.');
+            });
+    });
 });
