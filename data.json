@@ -187,5 +187,51 @@
     "year": "2019",
     "description": "Chen I H, Zhao Q, Long Y, et al. Mandarin Chinese modality exclusivity norms[J]. PloS one, 2019, 14(2): e0211336.",
     "filename": "datasets/zh/Chen2019.zip"
+  },
+  {
+    "id": 22,
+    "title": "Lancaster词汇感觉运动常模(Visual/auditory strength等)",
+    "language": "English",
+    "category": "Sensory",
+    "year": "2020",
+    "description": "Lynott, D., Connell, L., Brysbaert, M., Brand, J., & Carney, J. (2020). The Lancaster Sensorimotor Norms: multidimensional measures of perceptual and action strength for 40,000 English words. Behavior research methods, 52(3), 1271-1291.",
+    "filename": "datasets/en/Lancaster.csv"
+  },
+  {
+    "id": 23,
+    "title": "Glasgow词汇多指标常模(Arousal/Valence等)",
+    "language": "English",
+    "category": "Comprehensive",
+    "year": "2019",
+    "description": "Scott, G. G., Keitel, A., Becirspahic, M., Yao, B., & Sereno, S. C. (2019). The Glasgow Norms: Ratings of 5,500 words on nine scales. Behavior research methods, 51(3), 1258-1270.",
+    "filename": "datasets/en/Glasgow.xlsx"
+  },
+  {
+    "id": 24,
+    "title": "28,730个英文词汇决策反应时(Reaction Time)",
+    "language": "English",
+    "category": "Reaction Time",
+    "year": "2012",
+    "description": "Keuleers E, Lacey P, Rastle K, et al. The British Lexicon Project: Lexical decision data for 28,730 monosyllabic and disyllabic English words[J]. Behavior research methods, 2012, 44(1): 287-304.",
+    "filename": "datasets/en/British2012.zip"
+  },
+  {
+    "id": 25,
+    "title": "62,000个英文词汇决策反应时(众包版)(Reaction Time)",
+    "language": "English",
+    "category": "Reaction Time",
+    "year": "2020",
+    "description": "Mandera, P., Keuleers, E., & Brysbaert, M. (2020). Recognition times for 62 thousand English words: Data from the English Crowdsourcing Project. Behavior Research Methods, 52(2), 741-760.",
+    "filename": "datasets/en/English_rt2020.xlsx"
+  },
+  {
+    "id": 26,
+    "title": "ANEW英文词汇的情感常模(Valence/Arousal等)",
+    "language": "English",
+    "category": "Valence/Arousal",
+    "year": "1999",
+    "description": "Bradley, M. M., & Lang, P. J. (1999). Affective norms for English words (ANEW): Instruction manual and affective ratings (Vol. 30, No. 1, pp. 25-36). Technical report C-1, the center for research in psychophysiology, University of Florida.",
+    "filename": "datasets/en/bradley1999.pdf"
   }
+
 ]
