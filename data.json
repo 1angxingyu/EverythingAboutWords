@@ -151,5 +151,41 @@
     "year": "2024",
     "description": "Chen, H., Xu, X., Li, H., Yu, X., Pan, R., & Zhang, Z. (2024). A database of ambiguous Chinese characters with measures for meaning dominance and meaning balance. Applied Psycholinguistics, 45(4), 695-716.",
     "filename": "datasets/zh/Chen2024.xlsx"
+  },
+  {
+    "id": 18,
+    "title": "若干词的频率、笔画数等详细词汇特征(Frequency等)",
+    "language": "Chinese",
+    "category": "Frequency",
+    "year": "2018",
+    "description": "Sun, C. C., Hendrix, P., Ma, J., & Baayen, R. H. (2018). Chinese lexical database (cld) a large-scale lexical database for simplified mandarin chinese. Behavior Research Methods, 50(6), 2606-2629.",
+    "filename": "datasets/zh/chineselexicaldatabase2.1.csv"
+  },
+  {
+    "id": 19,
+    "title": "100多个情感调节词常模(Pleasure,Arousal等，常模在末尾)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2021",
+    "description": "Yuan, J., Zhang, Y., Chen, S., Luo, L., & Ru, Y. (2021). The establishment of the Chinese Emotion Regulation Word System (CERWS) and its pilot test. Acta Psychologica Sinica, 53(5), 445.",
+    "filename": "datasets/zh/Yuan2021.pdf"
+  },
+  {
+    "id": 20,
+    "title": "10426个词的可想象度常模(Imageability)",
+    "language": "Chinese",
+    "category": "Imageability",
+    "year": "2023",
+    "description": "Su, Y., Li, Y., & Li, H. (2023). Imageability ratings for 10,426 Chinese two-character words and their contribution to lexical processing. Current Psychology, 42(27), 23265-23276.",
+    "filename": "datasets/zh/Su2023.csv"
+  },
+  {
+    "id": 21,
+    "title": "汉语词汇感知觉模态常模(Visual/auditory strength等)",
+    "language": "Chinese",
+    "category": "Sensory",
+    "year": "2019",
+    "description": "Chen I H, Zhao Q, Long Y, et al. Mandarin Chinese modality exclusivity norms[J]. PloS one, 2019, 14(2): e0211336.",
+    "filename": "datasets/zh/Chen2019.zip"
   }
 ]
