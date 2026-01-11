@@ -322,5 +322,68 @@
     "year": "2013",
     "description": "Warriner, A. B., Kuperman, V., & Brysbaert, M. (2013). Norms of valence, arousal, and dominance for 13,915 English lemmas. Behavior research methods, 45(4), 1191-1207.",
     "filename": "datasets/en/Warriner2013.csv"
+  },
+  {
+    "id": 37,
+    "title": "2000多个单字词的心理语言学常模(Frequency,AoA等)",
+    "language": "Chinese",
+    "category": "Comprehensive",
+    "year": "2007",
+    "description": "Liu, Y., Shu, H., & Li, P. (2007). Word naming and psycholinguistic norms: Chinese. Behavior research methods, 39(2), 192-198.",
+    "filename": "datasets/zh/Liping2007.xlsx"
+  },
+  {
+    "id": 38,
+    "title": "词汇的图片命名反应时常模(Reaction Time等)",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2011",
+    "description": "Liu, Y., Hao, M., Li, P., & Shu, H. (2011). Timed picture naming norms for Mandarin Chinese. PloS one, 6(1), e16505.",
+    "filename": "datasets/zh/Picturenaming.doc"
+  },
+  {
+    "id": 39,
+    "title": "汉语名词的感觉运动常模(Sensory)",
+    "language": "Chinese",
+    "category": "Sensory",
+    "year": "2022",
+    "description": "Zhong, Y., Wan, M., Ahrens, K., & Huang, C. R. (2022). Sensorimotor norms for Chinese nouns and their relationship with orthographic and semantic variables. Language, Cognition and Neuroscience, 37(8), 1000-1022.",
+    "filename": "datasets/zh/Zhong2022.xlsx"
+  },
+  {
+    "id": 40,
+    "title": "由老年人评分的两字词情感常模(Valence/Arousal等)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2025",
+    "description": "Liu, J., Fan, L., Zhang, X., & Xu, Z. (2025). Affective and Psycholinguistic Norms for 1200 Two‐character Chinese Words. International Journal of Applied Linguistics.",
+    "filename": "datasets/zh/The ANCO database.csv"
+  },
+  {
+    "id": 41,
+    "title": "有英语常模对照的汉语词汇情感常模(Valence/Arousal等)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2025",
+    "description": "Yi, W., Xu, H., & Man, K. (2025). Perception of emotion across cultures: Norms of valence, arousal, and sensory experience for 4923 Chinese words translated from English in Warriner et al.(2013). Behavior Research Methods, 57(1), 43.",
+    "filename": "datasets/zh/emotion.en.ch.csv"
+  },
+  {
+    "id": 42,
+    "title": "词汇及其对应有色图片综合常模(Familiarity,AoA等)",
+    "language": "Chinese",
+    "category": "Comprehensive",
+    "year": "2019",
+    "description": "Ni, L., Liu, Y., Yu, W., & Fu, X. (2019). The China Image Set (CIS): A new set of 551 colored photos with Chinese norms for 12 psycholinguistic variables. Frontiers in Psychology, 10, 2631.",
+    "filename": "datasets/zh/pic_word.zip"
+  },
+  {
+    "id": 43,
+    "title": "视觉与听觉两种模态下的双字词情感常模(Familiarity,Valence等)",
+    "language": "Chinese",
+    "category": "Valence/Arousal",
+    "year": "2024",
+    "description": "Tang, E., Fan, X., Fang, R., Zhang, Y., Gong, J., Guan, J., & Ding, H. (2024). Not perceptually equivalent in semantic emotion across visual and auditory modalities: Cross-modal affective norms of two-character Chinese emotion-label words. Current Psychology, 43(17), 15308-15327.",
+    "filename": "datasets/zh/VISUALAUDI.zip"
   }
 ]

@@ -1,0 +1,1051 @@
+Word_ID,Words,Word_Eng,N_Valence,M_Valence,SD_Valence,N_Arousal,M_Arousal,SD_Arousal,Category,Sub_category
+1,阿姨,aunt,20,4.9,0.447213595,28,3,1.360827635,Expanded activities,Communication
+2,癌症,cancer,29,1.310344828,0.470823615,25,8.36,0.757187779,Basic activities,Nursing
+3,爱好,hobby,22,6.954545455,1.252702706,28,5.071428571,2.053516792,Expanded activities,Psychology
+4,碍事,get in the way,21,3.095238095,0.768424486,28,5,1.805341868,Expanded activities,Psychology
+5,安全,safe,30,6.9,1.647359434,31,3.64516129,2.665187762,Expanded activities,Others
+6,安慰,comfort,29,6.206896552,1.372674926,26,4.423076923,2.062485431,Expanded activities,Psychology
+7,安心,peace of mind,26,6.653846154,1.164209867,28,3.392857143,2.148889217,Expanded activities,Psychology
+8,按揭,mortgage,25,4.44,1.15758369,29,4.482758621,1.901516118,Basic activities,Consumption
+9,按摩,massage,27,5.888888889,1.310705428,28,4.071428571,1.48893627,Basic activities,Nursing
+10,把手,handles,19,5,0,27,2.555555556,1.187542172,Basic activities,Basic life activities
+11,爸爸,dad,26,6.461538462,1.502817866,28,3.464285714,2.284928767,Expanded activities,Communication
+12,拜访,visit,28,6.642857143,1.41981443,25,2.32,1.573742885,Expanded activities,Communication
+13,拜托,please,30,5.5,1.456258787,27,5.037037037,1.652072858,Expanded activities,Communication
+14,办理,handle,30,4.766666667,0.727932042,30,3.633333333,1.650148025,Expanded activities,Others
+15,办事,work,24,5.041666667,0.806450444,29,3.965517241,1.741976681,Expanded activities,Others
+16,伴郎,groomsman,25,5.96,1.513274595,28,4.75,2.204792759,Expanded activities,Others
+17,伴娘,bridesmaid,26,6.769230769,1.531213697,29,4.724137931,1.906690321,Expanded activities,Others
+18,包裹,pack,24,5.416666667,0.974307632,28,4.035714286,1.598196735,Expanded activities,Others
+19,包装,package,27,4.925925926,0.828619144,25,1.8,1.258305739,Basic activities,Consumption
+20,包子,steamed stuffed bun,30,6.633333333,1.06619961,24,1.625,1.055523773,Basic activities,Basic life activities
+21,宝贝,treasured object,30,7.466666667,1.224275531,30,5.233333333,2.176414852,Expanded activities,Communication
+22,保安,security guard,29,4.482758621,1.298919597,30,3.333333333,1.647010528,Expanded activities,Communication
+23,保姆,nanny,22,4.727272727,1.162174406,28,3.25,1.481365736,Basic activities,Nursing
+24,保守,conservative,26,4.115384615,0.908930056,28,3.785714286,1.685606669,Expanded activities,Psychology
+25,保养,maintainance,25,6.08,1.077032961,27,4.407407407,2.080296933,Basic activities,Consumption
+26,保重,take care of yourself,28,5.857142857,1.380131119,28,4.107142857,1.342724861,Expanded activities,Communication
+27,报答,repay,28,6.785714286,1.315354983,27,5.185185185,1.961887573,Expanded activities,Psychology
+28,报警,call the police,26,2.692307692,0.970329048,27,6.851851852,1.48592638,Expanded activities,Others
+29,报销,to reimburse,30,5.5,1.634751906,27,4.148148148,1.974913897,Basic activities,Consumption
+30,报纸,newspaper,27,5.222222222,0.640512615,28,2.071428571,1.08622934,Expanded activities,Leisure
+31,抱歉,sorry,28,4.178571429,1.306779231,28,4.357142857,1.366647309,Expanded activities,Psychology
+32,暴雨,rainstorm,26,2.538461538,1.0288156,28,5.857142857,1.860192856,Expanded activities,Others
+33,暴躁,irritable,29,2.068965517,0.961064681,30,8.233333333,1.006301982,Expanded activities,Psychology
+34,杯子,cup,21,5.047619048,0.384212243,28,2.285714286,1.181873681,Basic activities,Housework
+35,悲剧,tragedy,26,1.730769231,0.77757018,28,8,1.018350154,Expanded activities,Psychology
+36,悲伤,sad,28,2,0.860662966,27,6.777777778,1.368135546,Expanded activities,Psychology
+37,被套,quilt cover,27,5,0.620173673,30,3.266666667,1.79910578,Basic activities,Basic life activities
+38,被子,quilt,29,6.413793103,1.37625894,25,1.88,1.563116545,Basic activities,Basic life activities
+39,辈分,seniority in the family,30,5.666666667,1.470006646,30,3.433333333,1.501340397,Expanded activities,Communication
+40,崩溃,collapse,29,1.75862069,0.73945793,30,7.966666667,1.06619961,Expanded activities,Psychology
+41,鼻涕,nose,30,2.933333333,1.172481404,30,4.066666667,2.132399221,Basic activities,Nursing
+42,鄙视,despise,22,3.045454545,1.0900971,27,5.259259259,1.722980258,Expanded activities,Psychology
+43,便秘,constipate,28,2.642857143,0.911420776,29,4.931034483,1.85030952,Basic activities,Nursing
+44,便宜,cheap,30,5.866666667,1.332183412,27,5.111111111,2.100061049,Basic activities,Consumption
+45,表哥,elder brother from the mother side,24,5.291666667,0.999093792,28,3.964285714,1.914508792,Expanded activities,Communication
+46,表姐,elder sister from the mother side,29,6.137931034,1.407229749,30,3.466666667,2.285385855,Expanded activities,Communication
+47,表扬,praise,28,7.642857143,0.678466993,27,6.444444444,1.887883091,Expanded activities,Psychology
+48,冰箱,refrigerator,29,5.034482759,1.017095255,26,2.653846154,1.742235522,Basic activities,Housework
+49,饼干,biscuits,29,6.655172414,1.203443336,26,1.576923077,0.80860754,Basic activities,Basic life activities
+50,病床,hospital bed,29,2.620689655,1.424625091,26,6.730769231,2.474796029,Basic activities,Nursing
+51,病毒,virus,27,1.777777778,0.891555828,29,6.034482759,2.611550697,Basic activities,Nursing
+52,病房,ward,21,2.952380952,0.973457265,28,4.892857143,2.060911084,Basic activities,Nursing
+53,病历,medical record,30,3.033333333,1.098065174,27,4.962962963,2.028289948,Basic activities,Nursing
+54,病情,state of illness,26,2.692307692,1.378962821,27,6.074074074,1.356634011,Basic activities,Nursing
+55,病人,patients,29,2.24137931,1.090713149,31,5.161290323,2.477858944,Basic activities,Nursing
+56,拨号,dial,27,5.333333333,0.784464541,28,3.321428571,1.866935922,Expanded activities,Communication
+57,伯伯,uncle,28,5.821428571,1.656716329,28,3.428571429,1.93273116,Expanded activities,Communication
+58,伯母,aunt,27,5.444444444,1.086041979,27,2.777777778,1.502135232,Expanded activities,Communication
+59,补贴,subsidy,28,6.892857143,1.030615987,27,4.444444444,1.98713813,Basic activities,Consumption
+60,补助,subsidy,21,6.142857143,1.152636729,26,3.653846154,1.46812282,Basic activities,Consumption
+61,不安,disturbed,30,2.633333333,1.188546877,29,5.75862069,1.430663493,Expanded activities,Psychology
+62,才华,talent,29,7.448275862,1.616570596,31,4.64516129,2.470470766,Expanded activities,Others
+63,财产,property,30,6,1.414213562,27,4.555555556,2.207214279,Basic activities,Consumption
+64,彩礼,bride price,22,5.863636364,1.698611605,28,4.428571429,1.687175405,Basic activities,Consumption
+65,餐车,dining car,26,5.769230769,1.335894975,27,3.111111111,1.395964881,Expanded activities,Others
+66,餐厅,dinning room,27,6.037037037,1.372294022,28,3.678571429,1.826828286,Basic activities,Housework
+67,残疾,disability,21,2.380952381,0.804747816,28,4.607142857,2.024649686,Basic activities,Nursing
+68,惭愧,ashamed,26,3.153846154,0.833897245,29,5.206896552,1.820112052,Expanded activities,Psychology
+69,操场,playground,28,4.785714286,0.498675494,27,3.037037037,2.009237924,Expanded activities,Leisure
+70,操心,worry,28,3.392857143,1.196887498,31,5.483870968,1.841574829,Expanded activities,Psychology
+71,草率,hasty,30,3,1.144702943,26,4.269230769,2.42582262,Expanded activities,Psychology
+72,厕所,toilet,26,4.884615385,0.431455497,27,3.037037037,1.849770911,Basic activities,Basic life activities
+73,忏悔,repent,29,2.931034483,1.131719125,27,5.592592593,1.78151317,Expanded activities,Psychology
+74,唱歌,sing a song,22,7.409090909,1.007547277,28,5.857142857,2.172458681,Expanded activities,Leisure
+75,钞票,banknote,22,7.045454545,1.252702706,28,5,2.177324216,Basic activities,Consumption
+76,嘲笑,laugh at,30,3.033333333,1.29942516,27,5.703703704,1.835856849,Expanded activities,Psychology
+77,吵架,quarrel,22,2.136363636,0.833549755,27,7.518518519,1.528457502,Expanded activities,Psychology
+78,炒菜,stir fry,28,5.5,1.290994449,29,3.931034483,1.751143187,Basic activities,Housework
+79,炒股,stock,22,4.636363636,1.497472618,28,4.892857143,2.469657132,Basic activities,Consumption
+80,车费,fare,28,4.642857143,0.731020885,26,4,1.876166304,Basic activities,Consumption
+81,车祸,car accident,25,1.64,0.810349719,28,8.214285714,0.832539304,Basic activities,Nursing
+82,车票,bus ticket,27,5,0.620173673,26,2.884615385,2.519157368,Expanded activities,Others
+83,车站,station,25,5,0.5,28,2.678571429,1.415615857,Expanded activities,Others
+84,成婚,get married,31,6.709677419,1.616447718,30,4.9,2.26441741,Expanded activities,Others
+85,成家,get married,28,6.785714286,0.956736074,27,4.703703704,2.215588389,Expanded activities,Others
+86,成亲,marriage,28,7.857142857,0.890870806,29,6.103448276,2.380648585,Expanded activities,Others
+87,成熟,mature,26,5.923076923,1.262476199,28,3.821428571,1.516662306,Expanded activities,Psychology
+88,诚实,honest,27,7.111111111,1.050030525,28,4.214285714,2.469924918,Expanded activities,Psychology
+89,承担,shoulder,26,4.192307692,1.020557917,28,4.392857143,1.617938462,Expanded activities,Psychology
+90,承受,undertake,24,4,1.285369174,29,4.862068966,1.505327158,Expanded activities,Psychology
+91,城市,city,26,5.576923077,0.80860754,28,3.178571429,1.846990975,Expanded activities,Others
+92,乘车,ride,26,5.346153846,0.745241314,28,2.892857143,1.370030703,Expanded activities,Others
+93,惩罚,punish,27,2.37037037,0.791694781,29,6.206896552,1.800383101,Basic activities,Consumption
+94,吃饭,have a meal,30,5.8,1.270351567,26,2.615384615,1.675157857,Basic activities,Basic life activities
+95,吃惊,surprised,28,2.928571429,0.939998874,28,6.642857143,1.253566341,Expanded activities,Psychology
+96,吃亏,suffer,30,3.5,1.570196561,26,3.730769231,2.324782868,Expanded activities,Psychology
+97,吃药,take medicine,26,3,0.848528137,28,4.571428571,1.730522752,Basic activities,Nursing
+98,痴呆,dementia,25,1.76,0.830662386,28,6.214285714,1.931361885,Basic activities,Nursing
+99,迟到,late,22,3,0.690065559,28,5.107142857,1.685214256,Expanded activities,Others
+100,冲动,impulse,27,2.296296296,0.868899163,27,7.259259259,1.534039228,Expanded activities,Psychology
+101,充电,charge,30,5.033333333,1.217213702,27,3.444444444,1.825741858,Expanded activities,Communication
+102,充实,enrich,30,5.966666667,1.272611579,27,3.814814815,1.861286508,Expanded activities,Psychology
+103,崇拜,worship,28,6.785714286,1.370513363,29,4.379310345,2.274294131,Expanded activities,Psychology
+104,宠物,pet,30,4.433333333,1.887953341,27,5.074074074,1.542373943,Expanded activities,Leisure
+105,抽筋,cramp,28,2.785714286,0.875897121,28,6.142857143,1.297127474,Basic activities,Nursing
+106,抽血,blood draw,29,2.931034483,1.251599961,30,5.266666667,2.377093753,Basic activities,Nursing
+107,抽烟,smoke,29,2.103448276,1.37177746,26,5.807692308,3.2987177,Basic activities,Nursing
+108,出发,set off,30,5.533333333,1.525266135,26,4.192307692,1.876576261,Expanded activities,Others
+109,出嫁,married,29,6.896551724,1.31867974,31,6.290322581,2.340848114,Expanded activities,Others
+110,出门,go out,22,5.545454545,1.438493681,28,3.714285714,1.978722799,Expanded activities,Others
+111,出去,get out,26,6.153846154,1.433661262,29,4.206896552,1.655711119,Expanded activities,Others
+112,出事,have an accident,30,2.166666667,1.234094205,29,7.137931034,1.156476729,Basic activities,Nursing
+113,厨房,kitchen,27,5.222222222,0.751067616,28,3,1.586984095,Basic activities,Housework
+114,处分,sanction,27,2.333333333,0.832050294,27,6.777777778,1.250640861,Basic activities,Consumption
+115,传染,infect,24,1.958333333,0.806450444,28,6.678571429,1.611384761,Basic activities,Nursing
+116,传统,tradition,24,5.5,1.063219066,28,3.964285714,1.85556506,Expanded activities,Others
+117,串门,stop by,31,5.419354839,1.522589758,30,4.033333333,1.711690701,Expanded activities,Communication
+118,窗户,window,27,4.851851852,0.533760513,26,2.384615385,1.551178212,Basic activities,Housework
+119,窗帘,curtain,21,5.047619048,0.497613352,27,2.814814815,1.301981834,Basic activities,Basic life activities
+120,床单,sheet,26,5.115384615,0.515901004,28,2.178571429,1.020296668,Basic activities,Basic life activities
+121,伺候,serve,28,4.821428571,1.156417566,29,4.24137931,1.724925928,Basic activities,Nursing
+122,刺激,stimulate,25,3.52,1.084742673,29,7.137931034,1.216673977,Expanded activities,Psychology
+123,聪明,clever,26,6.961538462,1.215920038,28,4.071428571,1.998676811,Expanded activities,Psychology
+124,粗心,careless,26,3.461538462,1.0288156,28,4.821428571,1.72247822,Expanded activities,Psychology
+125,猝死,sudden death,28,1.285714286,0.460043706,25,8.24,0.778888096,Basic activities,Nursing
+126,脆弱,fragile,28,3.357142857,1.253566341,28,4.964285714,2.063476801,Expanded activities,Psychology
+127,存折,passbook,28,6.607142857,1.571488695,29,3.413793103,1.570196561,Basic activities,Consumption
+128,打扮,dress up,31,6.064516129,1.236540439,30,3.966666667,1.86590707,Basic activities,Basic life activities
+129,打车,take a taxi,29,4.931034483,0.842234888,30,3.6,1.693802089,Expanded activities,Others
+130,打的,call taxi,28,5.714285714,1.436486012,31,3.483870968,1.502685768,Expanded activities,Others
+131,打工,work to earn a living,28,4.678571429,1.248808956,27,3.703703704,2.072063535,Expanded activities,Others
+132,打球,play ball,31,6.161290323,1.392761626,29,6.068965517,1.667569542,Expanded activities,Leisure
+133,打扫,clean,31,4.838709677,1.572615109,30,4.633333333,2.008316044,Basic activities,Housework
+134,打算,intend,27,4.740740741,0.655895899,27,2.814814815,1.210118781,Expanded activities,Others
+135,打折,discount,21,6.19047619,0.813575296,27,4.888888889,1.948043068,Basic activities,Consumption
+136,大巴,bus,27,5.037037037,0.337579789,29,2.862068966,1.216673977,Expanded activities,Others
+137,大便,stool,29,3.206896552,1.780435548,26,3.192307692,2.514266983,Basic activities,Basic life activities
+138,大方,generous,26,6.692307692,1.5432234,29,4.586206897,2.163285223,Expanded activities,Psychology
+139,大学,university,28,6.678571429,1.588233853,28,5.285714286,2.477411177,Expanded activities,Others
+140,代办,do thing for others,24,5,0.722315119,28,2.714285714,1.11744228,Expanded activities,Others
+141,贷款,loan,27,3.518518519,1.155933535,28,5.642857143,1.985396419,Basic activities,Consumption
+142,待遇,treatment,25,5.48,1.357694124,26,4.769230769,2.006144408,Expanded activities,Others
+143,怠慢,neglect,26,3.384615385,1.022816624,28,4.285714286,2.174892809,Expanded activities,Psychology
+144,袋子,bag,29,4.827586207,0.710581528,25,1.24,0.597215762,Basic activities,Consumption
+145,担心,worry,30,2.733333333,0.907187139,27,5.925925926,1.662387669,Expanded activities,Psychology
+146,担忧,worries,29,2.655172414,0.720905287,27,6.296296296,1.564382769,Expanded activities,Psychology
+147,单身,single,22,4.090909091,1.019294383,28,3.142857143,1.268252975,Expanded activities,Others
+148,单位,unit,28,5.214285714,1.066567456,25,1.72,1.1,Expanded activities,Others
+149,蛋糕,cake,30,6.8,1.399507302,31,4.838709677,2.65953347,Expanded activities,Communication
+150,导航,navigation,27,4.777777778,0.891555828,29,2.689655172,1.537703489,Expanded activities,Others
+151,捣乱,make trouble,29,2.206896552,0.818505186,26,6.576923077,1.553655739,Expanded activities,Psychology
+152,道德,morality,22,6.227272727,1.377776614,28,3.928571429,1.803875898,Expanded activities,Others
+153,道理,reason,30,6.066666667,1.638614497,30,3.1,1.66816025,Expanded activities,Others
+154,得病,get sick,28,2.142857143,0.755928946,27,6.444444444,1.423250163,Basic activities,Nursing
+155,得意,proud,22,7.181818182,1.052722712,28,5.464285714,2.380198293,Expanded activities,Psychology
+156,地图,map,24,5.208333333,0.721060009,27,3.481481481,1.96841151,Expanded activities,Others
+157,地址,address,26,4.961538462,0.445490223,28,2.428571429,1.230133128,Expanded activities,Others
+158,低落,low,22,2.863636364,0.639602149,28,4.285714286,1.739670954,Expanded activities,Psychology
+159,抵扣,deduction,30,3.9,1.988761528,27,4.592592593,1.599501347,Basic activities,Consumption
+160,弟弟,younger brother,29,6.310344828,1.391388009,30,4.033333333,2.025413254,Expanded activities,Communication
+161,弟妹,wife of the younger brother,25,6.08,1.469693846,28,4.035714286,1.914508792,Expanded activities,Communication
+162,点菜,order the meal,31,5.774193548,0.920495425,30,3.866666667,1.547708725,Basic activities,Housework
+163,点心,dessert,30,6.533333333,1.332183412,31,3.967741935,2.136724455,Basic activities,Basic life activities
+164,电费,electricity bill,28,5.035714286,0.42879183,30,3,1.531282987,Basic activities,Consumption
+165,电话,telephone,26,5.192307692,0.980580676,29,4.24137931,1.640016821,Expanded activities,Communication
+166,电脑,computer,30,6.4,1.428768459,25,2.52,1.503329638,Expanded activities,Others
+167,电视,television,26,6.346153846,1.547703013,29,4.344827586,2.12595965,Expanded activities,Leisure
+168,电梯,elevator,21,5.476190476,1.123345344,27,3.407407407,1.715523227,Basic activities,Basic life activities
+169,惦记,worry about,28,4.785714286,0.917207633,29,4.310344828,1.490528388,Expanded activities,Psychology
+170,钓鱼,fishing,30,6,1.800383101,30,3.333333333,1.787568824,Expanded activities,Leisure
+171,调解,mediate,30,5.033333333,1.691425298,31,4.322580645,2.103760075,Expanded activities,Others
+172,调料,seasoning,26,5.076923077,0.627571632,28,2.607142857,1.342724861,Basic activities,Housework
+173,订婚,be engaged,27,7.555555556,0.800640769,28,5.678571429,2.261654121,Expanded activities,Others
+174,定期,regular,28,5.392857143,0.956044541,25,1.96,1.240967365,Basic activities,Consumption
+175,丢人,shame,25,2,0.866025404,29,6.172413793,1.691765044,Expanded activities,Psychology
+176,动怒,get angry,26,1.730769231,0.919029589,26,7.923076923,0.844894167,Expanded activities,Psychology
+177,动气,get angry,25,2.44,1.044030651,26,7.115384615,1.142870879,Expanded activities,Psychology
+178,动心,tempted,29,6.620689655,1.146852622,26,5.423076923,2.003458548,Expanded activities,Psychology
+179,动摇,shake,26,4.076923077,1.494605685,29,4.827586207,1.733472269,Expanded activities,Psychology
+180,冻疮,frostbite,29,2.068965517,0.961064681,31,5.032258065,2.469600116,Basic activities,Nursing
+181,读书,read books,30,5.233333333,1.406471087,27,2.666666667,1.519109051,Expanded activities,Leisure
+182,堵车,traffic jam,30,2.4,1.191926867,28,7.214285714,1.44932022,Expanded activities,Others
+183,短袖,short sleeve,26,5.153846154,0.464095481,27,2.185185185,1.177906782,Basic activities,Basic life activities
+184,锻炼,exercise,22,6.545454545,1.100963765,28,4.892857143,1.987726893,Expanded activities,Leisure
+185,对象,object,30,6.466666667,1.525266135,31,4.322580645,2.286002286,Expanded activities,Communication
+186,多心,suspicious,27,3.37037037,0.838870493,27,4.296296296,1.612804886,Expanded activities,Psychology
+187,恶心,nausea,27,2.037037037,0.758616224,27,6.962962963,1.315045524,Basic activities,Nursing
+188,恶性,malignant,29,1.724137931,0.751025571,30,7.3,1.556964332,Basic activities,Nursing
+189,恩情,kindness,29,7.655172414,1.110851092,26,4.269230769,2.721142294,Expanded activities,Psychology
+190,儿子,son,26,7.076923077,1.412036173,28,3.607142857,2.499470843,Expanded activities,Communication
+191,二手,second hand,28,3.785714286,1.100745298,28,3.642857143,1.8300837,Basic activities,Consumption
+192,发财,get rich,26,7.538461538,1.838059177,28,8,1.088662108,Basic activities,Consumption
+193,发愁,worry,26,2.384615385,1.13408723,28,6.428571429,1.501322169,Expanded activities,Psychology
+194,发火,get angry,25,2.12,1.452583905,27,7.925925926,1.174273128,Expanded activities,Psychology
+195,发怒,get angry,27,1.962962963,0.85401682,28,7.464285714,1.426784597,Expanded activities,Psychology
+196,发烧,fever,24,2.041666667,0.907896119,28,6.5,1.319371343,Basic activities,Nursing
+197,发炎,inflammation,29,2.413793103,0.824501641,27,6.148148148,1.321528943,Basic activities,Nursing
+198,罚款,fine,25,1.72,0.678232998,27,6.703703704,1.835856849,Basic activities,Consumption
+199,法院,court,28,3.964285714,1.035737092,29,4.724137931,2.281862518,Expanded activities,Others
+200,烦恼,annoyance,22,2.454545455,0.670981706,28,5.642857143,1.889822365,Expanded activities,Psychology
+201,烦人,annoying,28,2.178571429,0.772373515,31,6,1.861898673,Expanded activities,Psychology
+202,烦躁,irritability,31,2.35483871,1.141589158,30,7.066666667,1.20153159,Expanded activities,Psychology
+203,反对,oppose,26,3.615384615,1.022816624,28,5.642857143,1.63784605,Expanded activities,Psychology
+204,反感,dislike,30,2.133333333,0.819307249,31,6.806451613,2.006977077,Expanded activities,Psychology
+205,饭店,restaurant,21,5.428571429,0.9258201,28,3.857142857,2.013184058,Basic activities,Housework
+206,方言,dialect,26,5,0.565685425,28,2.714285714,1.356933986,Expanded activities,Communication
+207,房租,house rent,30,3.7,1.822275955,26,3.038461538,2.407999489,Basic activities,Consumption
+208,放假,have a holiday,30,7.5,1.40810462,31,4.967741935,2.613858846,Expanded activities,Others
+209,放疗,radiotherapy,30,1.966666667,1.06619961,30,6.3,2.306662016,Basic activities,Nursing
+210,放射,radiation,29,2.344827586,1.316810597,26,5.269230769,2.089166194,Basic activities,Nursing
+211,放松,relax,24,5.875,1.596531567,27,3,2.019139192,Expanded activities,Psychology
+212,放心,rest assured,25,6.92,1.382027496,29,3.517241379,2.011053201,Expanded activities,Psychology
+213,放学,after school,27,5.777777778,1.050030525,27,3.740740741,2.030395804,Expanded activities,Others
+214,飞机,airplane,30,5.633333333,1.670914128,27,4.037037037,2.377482209,Expanded activities,Others
+215,肥皂,soap,24,4.958333333,0.358640751,27,1.925925926,0.916763787,Basic activities,Housework
+216,肺癌,lung cancer,24,1.458333333,0.65800533,25,8.36,0.7,Basic activities,Nursing
+217,肺炎,pneumonia,29,1.689655172,0.890563557,25,6.92,1.800925688,Basic activities,Nursing
+218,废品,wastes,28,3.607142857,1.227441957,27,2.851851852,1.459813047,Basic activities,Housework
+219,费用,cost,29,4.75862069,1.745507957,26,3.769230769,2.687864465,Basic activities,Consumption
+220,分配,distribute,29,5.517241379,1.18384029,27,4.592592593,1.759791492,Expanded activities,Others
+221,分手,separate,28,2.392857143,1.196887498,26,5.884615385,2.454822569,Expanded activities,Others
+222,丰收,harvest,22,7.636363636,0.902137913,28,6.321428571,2.055770045,Expanded activities,Others
+223,风景,landscape,28,6.75,1.205696356,29,3.793103448,2.257990737,Expanded activities,Leisure
+224,风扇,fan,30,5.466666667,1.502488357,27,4.148148148,2.282099298,Expanded activities,Others
+225,风湿,rheumatism,29,2.103448276,0.939027901,31,5,2.594866727,Basic activities,Nursing
+226,风俗,custom,29,5.586206897,0.945562621,26,2.192307692,1.357032963,Expanded activities,Others
+227,夫妻,couple,31,6.419354839,1.628377384,30,3.966666667,2.042367344,Expanded activities,Communication
+228,扶手,armrest,29,5.482758621,1.595097168,25,2.56,1.781385229,Basic activities,Basic life activities
+229,服务,service,31,5.387096774,1.453212977,30,3.933333333,1.855715,Expanded activities,Others
+230,服药,take medicine,30,2.866666667,1.382983615,30,3.566666667,1.869599502,Basic activities,Nursing
+231,辐射,radiation,28,2.785714286,1.066567456,29,5.517241379,2.148432812,Basic activities,Nursing
+232,福利,welfare,22,6.727272727,1.2024506,27,5.555555556,2.100061049,Basic activities,Consumption
+233,福气,blessing,28,8.25,1.075828707,26,3.038461538,2.806859729,Expanded activities,Psychology
+234,父母,parent,28,6.892857143,1.663091403,28,3.107142857,1.791735879,Expanded activities,Communication
+235,父亲,father,26,6.653846154,1.623386773,27,2.962962963,1.652072858,Expanded activities,Communication
+236,付款,payment,30,4.266666667,1.337350271,27,3.777777778,1.739436985,Basic activities,Consumption
+237,付钱,pay money,22,4.5,1.300183137,27,3.925925926,1.752491104,Basic activities,Consumption
+238,负担,burden,29,2.965517241,1.295121578,26,5.423076923,2.730173283,Basic activities,Nursing
+239,负责,responsible,30,6.3,1.622046387,30,4.566666667,2.176414852,Expanded activities,Psychology
+240,复查,review,25,3.48,1.084742673,28,5.392857143,1.499117906,Basic activities,Nursing
+241,复合,reconcile,26,5.846153846,2.166883618,29,5.482758621,2.164992406,Expanded activities,Others
+242,复婚,remarry,30,4.9,2.411895806,26,4.384615385,2.801098686,Expanded activities,Others
+243,复杂,complex,27,3.407407407,1.009922284,29,5.068965517,1.980819356,Expanded activities,Others
+244,钙片,calcium tablets,25,5.32,1.215181742,29,3.448275862,1.428940839,Basic activities,Consumption
+245,肝炎,hepatitis,30,1.6,0.813676204,25,7.12,1.96468827,Basic activities,Nursing
+246,尴尬,embarrassment,26,3.192307692,0.980580676,27,4.814814815,1.241495284,Expanded activities,Psychology
+247,感动,moving,28,7.357142857,0.911420776,26,6.692307692,1.158248014,Expanded activities,Psychology
+248,感恩,grateful,31,7.387096774,1.202148614,30,5.766666667,1.406471087,Expanded activities,Psychology
+249,感激,gratitude,30,8.1,0.922889017,26,4.461538462,2.901458519,Expanded activities,Psychology
+250,感慨,sigh,28,5.821428571,1.516662306,28,4.5,1.503083251,Expanded activities,Psychology
+251,感冒,cold,30,2.5,1.167077104,26,4.923076923,2.755693407,Basic activities,Nursing
+252,感情,emotion,30,6.733333333,1.659524929,25,3.48,1.636052159,Expanded activities,Psychology
+253,感染,infect,25,2.28,0.890692614,28,5.428571429,1.793580558,Basic activities,Nursing
+254,感谢,thank,30,7.666666667,0.711159002,27,6.666666667,1.519109051,Expanded activities,Communication
+255,干洗,dry cleaning,29,4.75862069,0.689470419,26,2.884615385,1.275207374,Basic activities,Housework
+256,高兴,happy,25,8.28,0.890692614,28,6.821428571,1.656716329,Expanded activities,Psychology
+257,膏药,plaster,29,3.655172414,1.421163057,26,3.423076923,2.610334491,Basic activities,Nursing
+258,糕点,pastry,21,5.428571429,0.676123404,28,3.5,1.895413568,Basic activities,Basic life activities
+259,哥哥,elder brother,26,6,1.019803903,28,3.285714286,1.959915774,Expanded activities,Communication
+260,隔离,isolation,26,2.461538462,1.103839453,27,6.185185185,1.494529436,Basic activities,Nursing
+261,个性,personality,28,5.642857143,1.28277147,25,2.72,1.814754345,Expanded activities,Psychology
+262,工资,salary,26,7.230769231,1.607673905,29,5.620689655,2.396631462,Basic activities,Consumption
+263,工作,work,22,5.227272727,0.428932027,28,3.892857143,1.911743159,Expanded activities,Others
+264,公公,father in law,26,5.884615385,1.032547261,28,2.642857143,1.44566493,Expanded activities,Communication
+265,公司,company,29,5.137931034,0.580894503,25,2.28,1.882374387,Expanded activities,Others
+266,公园,garden,30,7.266666667,1.284746945,30,4.566666667,2.459090571,Expanded activities,Leisure
+267,恭喜,congratulations,27,7.814814815,0.8786807,26,6.269230769,1.686598762,Expanded activities,Others
+268,孤独,alone,30,2.3,1.055363967,31,3.419354839,2.778179182,Expanded activities,Psychology
+269,姑父,uncle,28,6.107142857,1.13330999,25,1.96,1.27410099,Expanded activities,Communication
+270,姑姑,aunt,30,6.8,1.540264196,31,3.870967742,2.109374876,Expanded activities,Communication
+271,姑娘,girl,28,6.214285714,1.19743995,29,2.344827586,1.14254922,Expanded activities,Communication
+272,古怪,oddly,29,3.862068966,1.328913034,26,4.461538462,2.656776532,Expanded activities,Psychology
+273,股票,stock,28,5.035714286,1.452511053,29,4.586206897,2.322517744,Basic activities,Consumption
+274,骨科,orthopedics,29,3.206896552,1.292265739,31,4.548387097,2.321475245,Basic activities,Nursing
+275,骨折,fracture,28,2.071428571,0.766356045,29,5.896551724,2.319864953,Basic activities,Nursing
+276,鼓励,encourage,29,7.586206897,1.118584609,26,4.384615385,2.954006406,Expanded activities,Psychology
+277,刮风,windy,29,3.517241379,1.404601867,30,5.166666667,1.723735585,Expanded activities,Others
+278,挂号,registered,28,3.571428571,1.259881577,27,3.666666667,1.961161351,Basic activities,Nursing
+279,挂念,miss,27,5.222222222,1.527525232,29,4.310344828,2.123061272,Expanded activities,Psychology
+280,拐弯,turn,26,4.384615385,0.982931252,29,3.724137931,1.645264888,Expanded activities,Others
+281,关灯,turn off the lights,26,4.961538462,0.598716576,27,2.62962963,1.390853312,Basic activities,Basic life activities
+282,关机,shut down,26,4.923076923,0.844894167,27,3.37037037,1.596827339,Expanded activities,Communication
+283,关门,close the door,26,4.884615385,0.431455497,28,2.571428571,1.168366109,Expanded activities,Others
+284,关心,care,25,7.4,1.258305739,29,4.931034483,1.533693825,Expanded activities,Psychology
+285,关注,focus on,26,5.423076923,0.902134222,27,4,1.20894105,Expanded activities,Psychology
+286,观察,observe,26,5.038461538,0.870896974,27,3.481481481,1.672638872,Basic activities,Nursing
+287,广播,broadcast,27,5.777777778,1.012739367,27,3.777777778,1.739436985,Expanded activities,Leisure
+288,广场,square,25,5.36,0.757187779,27,2.888888889,1.250640861,Expanded activities,Leisure
+289,闺女,daughter,28,6.892857143,1.370030703,27,4.481481481,2.082350195,Expanded activities,Communication
+290,贵人,noble man,28,6.714285714,1.181873681,27,4.407407407,1.737798325,Expanded activities,Others
+291,过敏,allergy,26,3.269230769,0.724303379,29,4.862068966,2.065432122,Basic activities,Nursing
+292,咳嗽,cough,27,2.666666667,0.733799386,27,5.666666667,1.544219992,Basic activities,Nursing
+293,孩子,child,28,6.392857143,1.342724861,29,3.448275862,1.784580921,Expanded activities,Communication
+294,海鲜,seafood,29,6.517241379,1.724211821,31,4.580645161,2.277047702,Basic activities,Basic life activities
+295,害怕,fear,27,2.777777778,1.086041979,28,5.785714286,2.183390887,Expanded activities,Psychology
+296,害臊,ashamed,28,3.535714286,0.792658109,29,4.482758621,1.824842256,Expanded activities,Psychology
+297,害羞,shy,27,3.962962963,1.315045524,26,4.730769231,1.218447941,Expanded activities,Psychology
+298,寒假,winter vacation,26,6.307692308,1.435805858,29,3.931034483,1.602030731,Expanded activities,Others
+299,寒心,chill,30,2.533333333,1.224275531,29,6.206896552,1.719204765,Expanded activities,Psychology
+300,航班,flight,25,5.32,0.945163125,28,3.178571429,1.540888907,Expanded activities,Others
+301,好看,good-looking,29,8.172413793,1.071346466,26,3.576923077,2.402882884,Expanded activities,Psychology
+302,好听,nice to hear,30,7.733333333,1.284746945,24,2.25,1.725763851,Expanded activities,Psychology
+303,号码,number,27,4.962962963,0.436901809,27,2.518518519,1.340791109,Expanded activities,Communication
+304,合唱,chorus,28,7.285714286,1.356933986,27,5.518518519,2.063797291,Expanded activities,Leisure
+305,合影,group photo,26,6.576923077,1.101746865,28,4,2.072750901,Expanded activities,Leisure
+306,和蔼,kind,30,6.8,1.242910933,27,3.259259259,1.347150628,Expanded activities,Psychology
+307,和解,reconciliation,25,6.6,1.190238071,28,3.714285714,1.843047855,Expanded activities,Others
+308,核桃,walnut,27,5.296296296,1.067521025,26,1.730769231,0.827414881,Basic activities,Basic life activities
+309,狠心,heartless,29,2.413793103,1.323341047,26,6.307692308,2.412786452,Expanded activities,Psychology
+310,红包,a red envelope with gift money in it,26,7.730769231,1.185164708,29,6.620689655,2.258536079,Basic activities,Consumption
+311,红灯,red light,29,4,1.164964745,30,4.033333333,2.108821101,Expanded activities,Others
+312,后悔,regret,30,2.833333333,1.14721051,30,5.5,1.634751906,Expanded activities,Psychology
+313,忽视,ignore,28,3.392857143,0.994029797,29,4,1.488047618,Expanded activities,Psychology
+314,胡子,beard,22,4.136363636,0.990211836,27,2.481481481,1.369176349,Basic activities,Basic life activities
+315,糊涂,confused,30,2.966666667,0.964305479,27,5.407407407,2.004979556,Expanded activities,Psychology
+316,护理,nursing,25,4.84,0.850490055,27,3.888888889,0.933699562,Basic activities,Nursing
+317,护士,nurse,29,5.586206897,2.130010754,26,3.346153846,2.637306318,Basic activities,Nursing
+318,花费,spend,30,4.366666667,1.06619961,27,5.037037037,1.870447941,Basic activities,Consumption
+319,花销,cost,29,5.310344828,2.019608312,30,4.866666667,1.252124631,Basic activities,Consumption
+320,化疗,chemotherapy,28,1.321428571,0.669636243,25,7.88,1.508862706,Basic activities,Nursing
+321,化妆,make up,26,5.576923077,1.361560191,29,3.413793103,1.547284289,Basic activities,Basic life activities
+322,画画,draw,26,5.807692308,1.442753777,29,3.793103448,1.739854476,Expanded activities,Leisure
+323,话费,phone bill,30,4.366666667,1.033351872,26,3.769230769,1.704293221,Basic activities,Consumption
+324,话筒,microphone,24,4.791666667,0.414851117,28,2.857142857,1.918994446,Expanded activities,Leisure
+325,怀念,miss,29,6.517241379,1.502870816,26,3.576923077,2.386178148,Expanded activities,Psychology
+326,怀疑,suspect,25,3.28,1.208304597,28,5,1.943650632,Expanded activities,Psychology
+327,怀孕,pregnant,25,6.04,2.071231518,28,5.928571429,1.631372325,Expanded activities,Others
+328,欢乐,joy,28,7.75,0.844371342,28,6.857142857,1.693435817,Expanded activities,Psychology
+329,换乘,transfer from one bus to another ,26,5,0.565685425,28,3.357142857,1.44566493,Expanded activities,Others
+330,慌乱,flustered,26,2.115384615,0.908930056,27,6.814814815,0.786278334,Expanded activities,Psychology
+331,慌张,flustered,25,2.32,0.945163125,28,6.214285714,1.44932022,Expanded activities,Psychology
+332,灰心,discouraged,26,2.769230769,0.764601455,28,5.25,1.838376901,Expanded activities,Psychology
+333,恢复,recover,21,6.238095238,1.220850601,28,4.178571429,2.037674263,Basic activities,Nursing
+334,回家,go home,22,6.636363636,1.364357674,28,4.892857143,2.424249188,Expanded activities,Others
+335,回忆,recall,26,5.730769231,1.733382642,29,4.24137931,1.765850107,Expanded activities,Psychology
+336,悔恨,remorse,29,2.827586207,1.255529641,26,6.307692308,2.429308227,Expanded activities,Psychology
+337,汇款,remittance,28,4.642857143,1.704336206,28,4.178571429,1.963624227,Basic activities,Consumption
+338,会员,member,25,5.28,1.137248141,28,3.857142857,1.626500122,Basic activities,Consumption
+339,昏倒,faint,26,1.961538462,1.038490028,27,6.814814815,1.468569085,Basic activities,Nursing
+340,昏迷,coma,22,1.954545455,0.950051263,28,5.071428571,2.053516792,Basic activities,Nursing
+341,婚纱,wedding dress,22,6.863636364,1.52113537,27,4.814814815,2.094627506,Expanded activities,Others
+342,婚宴,wedding reception,29,7.586206897,1.150069606,26,4.884615385,2.77599601,Expanded activities,Others
+343,活动,activity,30,6.166666667,1.391683013,30,5.1,1.66816025,Expanded activities,Leisure
+344,活泼,lively,26,7.038461538,1.148242805,28,6.142857143,1.380131119,Expanded activities,Psychology
+345,火车,train,26,5.230769231,0.710362854,28,3.5,1.732050808,Expanded activities,Others
+346,机场,airport,28,5.428571429,1.372442306,28,4.464285714,1.85556506,Expanded activities,Others
+347,机灵,clever,28,6.571428571,1.199647214,26,4.307692308,1.123182292,Expanded activities,Psychology
+348,积极,positive,31,6.774193548,0.990275296,30,4.566666667,1.735696885,Expanded activities,Psychology
+349,激动,excited,31,5.806451613,2.242310636,30,7.133333333,1.525266135,Expanded activities,Psychology
+350,激素,hormone,28,3.25,0.927960727,27,4.666666667,1.839732422,Basic activities,Nursing
+351,急救,first aid,28,2.107142857,1.227441957,26,7.846153846,0.96715284,Basic activities,Nursing
+352,急诊,emergency,27,1.925925926,1.035000034,27,7.814814815,1.001423488,Basic activities,Nursing
+353,嫉妒,envy,26,2.846153846,1.222859197,29,5.724137931,1.46132405,Expanded activities,Psychology
+354,计划,plan,20,5,0.648885685,28,3.642857143,1.591977241,Expanded activities,Others
+355,计算,calculate,25,5.28,1.307669683,29,4.620689655,1.760961448,Expanded activities,Psychology
+356,纪念,commemorate,27,5.777777778,1.552500052,29,4.620689655,2.128275511,Expanded activities,Psychology
+357,忌恨,envy and hate,28,2.285714286,0.854493259,28,6.5,1.732050808,Expanded activities,Psychology
+358,寂寞,lonely,28,3.321428571,1.334820599,28,3.357142857,1.63784605,Expanded activities,Psychology
+359,加班,work overtime,27,4.074074074,1.238048276,27,4.037037037,1.849770911,Expanded activities,Others
+360,佳肴,delicacy,29,7.137931034,1.528868347,31,4.806451613,2.088370255,Basic activities,Basic life activities
+361,家人,family,28,6.571428571,1.259881577,28,4.321428571,2.195172674,Expanded activities,Communication
+362,家事,housework,29,4.827586207,1.311187181,27,3.185185185,1.520046483,Expanded activities,Communication
+363,家属,family members,27,5.666666667,1.176696811,29,3.172413793,1.965214738,Basic activities,Nursing
+364,家长,parent,26,5.730769231,0.96156923,28,3.714285714,2.338995398,Expanded activities,Communication
+365,假牙,denture,22,3.909090909,1.269011273,28,3.178571429,1.306779231,Basic activities,Basic life activities
+366,价格,price,30,4.833333333,1.366680684,27,4.851851852,1.915597993,Basic activities,Consumption
+367,价钱,price,21,4.952380952,0.384212243,27,4.37037037,1.690428898,Basic activities,Consumption
+368,嫁妆,dowry,27,7.037037037,1.224163183,29,4.931034483,2.218928868,Basic activities,Consumption
+369,坚果,nut,30,6.2,1.606023146,31,4.322580645,2.468293564,Basic activities,Basic life activities
+370,检测,detect,29,4.793103448,0.940338478,26,3.730769231,2.442256208,Basic activities,Nursing
+371,检查,examine,22,4.227272727,0.922306538,28,4.392857143,1.663091403,Basic activities,Nursing
+372,剪纸,paper cut,21,5.428571429,0.978336781,28,2.535714286,1.318869967,Expanded activities,Leisure
+373,简单,simple,27,5.222222222,0.847318546,29,2.068965517,0.883622192,Expanded activities,Others
+374,建议,suggest,28,5.357142857,1.095928009,29,3.931034483,1.667569542,Expanded activities,Communication
+375,健康,healthy,29,7.75862069,0.912421128,27,4.740740741,2.458776941,Basic activities,Nursing
+376,健身,fitness,28,6.928571429,1.08622934,28,4.642857143,1.928620419,Expanded activities,Leisure
+377,健谈,talkative,27,6.851851852,0.863966867,28,4.428571429,1.751794243,Expanded activities,Psychology
+378,健忘,forgetful,26,3.5,1.503329638,29,4.827586207,1.872144788,Expanded activities,Psychology
+379,奖金,bonus,29,8.034482759,1.017095255,31,6.451612903,2.335789798,Basic activities,Consumption
+380,奖励,award,27,7.518518519,0.752961863,29,5.551724138,1.974592307,Basic activities,Consumption
+381,奖品,prize,29,7.793103448,0.940338478,26,6.653846154,1.231009592,Basic activities,Consumption
+382,酱油,soy sauce,28,5.25,0.927960727,29,2.551724138,1.478082902,Basic activities,Housework
+383,郊游,outing,28,6.785714286,1.227980663,29,5.172413793,2.376506522,Expanded activities,Leisure
+384,骄傲,proud,26,5.923076923,1.916727981,29,6.172413793,1.733472269,Expanded activities,Psychology
+385,胶囊,capsule,26,4.115384615,1.275207374,29,3,1.33630621,Basic activities,Nursing
+386,焦急,anxious,26,2.461538462,0.81145643,28,6.392857143,1.499117906,Expanded activities,Psychology
+387,焦虑,anxiety,28,2.678571429,1.248808956,28,6,1.885618083,Expanded activities,Psychology
+388,狡猾,cunning,28,2.607142857,1.030615987,26,5.884615385,1.632836136,Expanded activities,Psychology
+389,饺子,dumpling,27,5.925925926,1.106829357,28,2.75,1.554563176,Basic activities,Basic life activities
+390,缴费,pay,28,4.75,0.927960727,28,3.107142857,1.448863813,Basic activities,Consumption
+391,叫号,call the number,21,4.714285714,0.643650304,28,4.035714286,1.527092198,Basic activities,Nursing
+392,较真,take seriously,25,5,1.802775638,28,5.75,1.50616019,Expanded activities,Psychology
+393,接通,connect,26,5.769230769,0.862910995,28,3.928571429,1.961265114,Expanded activities,Communication
+394,结核,tuberculosis,30,2.533333333,1.357821108,26,5.653846154,2.22606932,Basic activities,Nursing
+395,结婚,get married,25,7.88,1.235583533,29,6.448275862,2.277000014,Expanded activities,Others
+396,结账,pay the bill,21,4.761904762,0.700340053,28,3.928571429,1.884214571,Basic activities,Consumption
+397,姐夫,elder sister's husband,29,4.793103448,0.675029647,26,3.384615385,1.525173382,Expanded activities,Communication
+398,姐姐,elder sister,30,6.933333333,1.507071454,31,3.935483871,2.293984654,Expanded activities,Communication
+399,姐妹,sister,30,7.133333333,1.547708725,31,4,2.338090389,Expanded activities,Communication
+400,解恨,vent one's hatred,26,5.038461538,2.009592381,28,7.142857143,1.208435956,Expanded activities,Psychology
+401,戒指,ring,30,5.7,1.859736726,29,3.620689655,2.144990728,Expanded activities,Others
+402,津贴,allowance,28,6.142857143,1.380131119,28,4.428571429,1.834415265,Basic activities,Consumption
+403,紧张,nervous,25,2.52,0.822597512,26,6.192307692,1.166849802,Expanded activities,Psychology
+404,谨慎,cautious,27,5.074074074,1.071516751,29,4,2,Expanded activities,Psychology
+405,进站,pit stop,31,5.580645161,1.232184877,30,4.266666667,1.892513988,Expanded activities,Others
+406,惊喜,pleasantly surprised,29,8,1.195228609,30,7.3,1.31699763,Expanded activities,Psychology
+407,惊吓,scared,25,1.68,0.690410506,27,6.666666667,1.358732441,Expanded activities,Psychology
+408,惊讶,surprise,28,4.785714286,1.969341737,31,5.935483871,2.096592217,Expanded activities,Psychology
+409,警察,police,30,5.233333333,2.207875142,31,4.903225806,2.314517066,Expanded activities,Communication
+410,敬爱,respect and love,26,7.038461538,0.870896974,28,3.428571429,2.007920823,Expanded activities,Psychology
+411,敬佩,admire,30,7.166666667,1.288766674,31,5.451612903,2.29257802,Expanded activities,Psychology
+412,敬重,respect,30,6.566666667,1.072648457,26,4.538461538,1.881079886,Expanded activities,Psychology
+413,纠缠,entangled,26,3.038461538,0.720042734,28,5.5,1.855921454,Expanded activities,Psychology
+414,纠纷,dispute,21,2.857142857,0.654653671,28,5.678571429,1.611384761,Expanded activities,Psychology
+415,纠结,tangled,25,3.52,1.262273082,28,5.785714286,1.548168401,Expanded activities,Psychology
+416,揪心,worried,29,2.482758621,0.870988341,27,6.666666667,1.386750491,Expanded activities,Psychology
+417,舅舅,uncle,27,6.037037037,1.34397463,28,2.678571429,1.156417566,Expanded activities,Communication
+418,舅妈,aunt,28,5.714285714,1.083791112,28,2.285714286,1.242969648,Expanded activities,Communication
+419,拘谨,overcautious,29,4.103448276,1.447777301,26,3.884615385,2.388755711,Expanded activities,Psychology
+420,沮丧,frustrated,29,2.310344828,1.072495364,26,5.538461538,2.30183873,Expanded activities,Psychology
+421,聚会,have a party,29,7.793103448,1.048104082,30,6.366666667,2.204749315,Expanded activities,Communication
+422,绝望,despair,26,1.961538462,0.773602959,28,6.678571429,1.564740457,Expanded activities,Psychology
+423,咖啡,coffee,26,5.5,0.860232527,27,3.814814815,2.094627506,Basic activities,Basic life activities
+424,开车,drive,30,5.1,1.373392477,27,3.814814815,2.131035087,Expanded activities,Others
+425,开除,expelled,26,1.807692308,0.938902797,28,7.214285714,1.728993346,Expanded activities,Others
+426,开刀,operate,30,1.466666667,0.730296743,26,7.5,1.630950643,Basic activities,Nursing
+427,开会,have a meeting,20,4.95,0.223606798,28,3.928571429,1.719788347,Expanded activities,Others
+428,开机,boot up,29,5.827586207,1.489701924,31,3.516129032,2.047290368,Expanded activities,Communication
+429,开朗,optimistic,25,7.2,1.443375673,28,5.357142857,2.146733707,Expanded activities,Psychology
+430,开门,open the door,28,5.214285714,0.738223235,28,2.571428571,1.230133128,Expanded activities,Others
+431,开销,expense,30,4.1,1.348050956,27,5.148148148,1.955341869,Basic activities,Consumption
+432,开心,joyful,28,7.821428571,0.983326607,28,6.571428571,1.730522752,Expanded activities,Psychology
+433,开支,expenditure,21,4.904761905,0.43643578,28,3.928571429,1.741190981,Basic activities,Consumption
+434,看报,read newspapers,30,5.9,1.295882072,29,2.586206897,1.401969059,Expanded activities,Leisure
+435,看病,see a doctor,27,2.62962963,0.966681403,26,5.807692308,1.625281041,Basic activities,Nursing
+436,康复,recovery,25,7.32,1.435270009,28,6.571428571,1.793580558,Basic activities,Nursing
+437,考虑,consider,29,4.448275862,1.325200979,30,2.566666667,1.250746903,Expanded activities,Psychology
+438,可爱,cute,28,7.392857143,0.994029797,28,5.428571429,2.284060248,Expanded activities,Psychology
+439,可靠,reliable,28,7.107142857,1.165532328,24,1.791666667,1.350657382,Expanded activities,Psychology
+440,可怕,horrible,22,2.636363636,0.953462589,28,6.321428571,1.72247822,Expanded activities,Psychology
+441,可惜,pity,28,3.392857143,1.065947178,28,5.357142857,2.058663459,Expanded activities,Psychology
+442,客车,bus,26,5.269230769,1.282425586,29,3.655172414,1.758161826,Expanded activities,Others
+443,客人,guest,28,6.928571429,1.11980724,27,4.555555556,2.118296364,Expanded activities,Communication
+444,空调,air conditioner,29,6.413793103,1.476415577,25,2.28,1.620699437,Expanded activities,Others
+445,空腹,fasting,22,3.954545455,1.0900971,26,2.692307692,1.123182292,Basic activities,Nursing
+446,恐怖,terror,30,1.633333333,0.718395402,30,7.2,1.845778034,Expanded activities,Psychology
+447,恐慌,panic,22,2.727272727,0.935125058,28,6.428571429,1.665078609,Expanded activities,Psychology
+448,口袋,pocket,28,4.821428571,0.722832465,24,2.5,1.474419562,Basic activities,Consumption
+449,口服,oral administration,28,4.821428571,1.415615857,28,3.357142857,1.789150134,Basic activities,Nursing
+450,口红,lipstick,27,5.925925926,1.174273128,27,2.333333333,1.176696811,Basic activities,Basic life activities
+451,口腔,oral cavity,22,4.772727273,0.751621624,27,3.777777778,1.825741858,Basic activities,Nursing
+452,口水,saliva,30,3.4,1.452702594,31,3.258064516,2.112940162,Basic activities,Basic life activities
+453,口味,taste,30,5.966666667,1.272611579,30,4,1.701925887,Basic activities,Housework
+454,口罩,facial mask,27,5,0.733799386,27,2.148148148,1.261979632,Basic activities,Nursing
+455,苦恼,distressed,28,2.607142857,1.13330999,28,5.285714286,1.863035016,Expanded activities,Psychology
+456,裤子,pants,30,4.733333333,0.52083046,27,2.777777778,1.450022104,Basic activities,Basic life activities
+457,快递,express delivery,27,5.740740741,1.095185007,27,3.888888889,1.783111656,Expanded activities,Others
+458,快乐,hapiness,22,7.681818182,0.994574024,26,6.769230769,1.795721411,Expanded activities,Psychology
+459,筷子,chopsticks,27,4.814814815,0.483340701,27,1.814814815,0.921413506,Basic activities,Housework
+460,宽心,feel relieved,30,7.066666667,1.311312407,25,1.56,1.044030651,Expanded activities,Psychology
+461,款待,hospitality,26,6,1.414213562,27,4.074074074,1.174273128,Basic activities,Housework
+462,溃疡,ulcer,29,2.034482759,0.905647307,31,6,2.338090389,Basic activities,Nursing
+463,困惑,puzzled,30,3.266666667,1.311312407,26,4.807692308,2.44980376,Expanded activities,Psychology
+464,困倦,sleepy,31,3.322580645,1.194071376,30,3.9,1.66816025,Basic activities,Basic life activities
+465,扩散,diffusion,28,3.071428571,1.274495439,27,6.111111111,1.648620247,Basic activities,Nursing
+466,垃圾,garbage,27,3.555555556,1.219499687,29,3.965517241,2.09562058,Basic activities,Housework
+467,辣椒,chili,30,3.6,1.248447312,27,5.703703704,2.35036519,Basic activities,Housework
+468,来劲,exciting,26,6.115384615,1.751043645,28,6.071428571,1.631372325,Expanded activities,Psychology
+469,浪费,waste,29,2.586206897,1.210585495,26,4.846153846,2.411510857,Basic activities,Basic life activities
+470,唠叨,nagging,30,2.7,0.952311163,31,5.161290323,1.984889152,Expanded activities,Psychology
+471,老板,boss,31,5.064516129,1.481789096,30,4.133333333,1.960530071,Expanded activities,Others
+472,老伴,wife,30,6.233333333,1.250746903,27,3.185185185,1.687898945,Expanded activities,Communication
+473,老人,older adults,26,5.423076923,1.474396878,29,4.206896552,2.006761968,Expanded activities,Communication
+474,老实,honest,30,5.433333333,1.165105688,27,3.703703704,1.814785743,Expanded activities,Psychology
+475,老乡,fellow,28,6.142857143,1.297127474,28,4.071428571,1.980059323,Expanded activities,Communication
+476,乐观,optimism,30,7.5,0.776819333,27,6,2.093947321,Expanded activities,Psychology
+477,乐意,willing,30,7.933333333,0.907187139,26,2.653846154,2.096517259,Expanded activities,Psychology
+478,了解,understand,29,4.75862069,1.090713149,26,3.115384615,1.531715981,Expanded activities,Psychology
+479,冷静,calm,27,5.62962963,1.445101757,25,1.44,0.820568908,Expanded activities,Psychology
+480,冷战,cold war,28,3.035714286,1.261455446,29,4.827586207,2.253076714,Expanded activities,Psychology
+481,离婚,divorce,24,1.708333333,0.750603622,27,7.777777778,0.847318546,Expanded activities,Others
+482,礼金,gift money,21,6,1.264911064,28,4.571428571,1.970684623,Basic activities,Consumption
+483,礼貌,polite,26,6.807692308,1.096147098,27,3.259259259,1.722980258,Expanded activities,Psychology
+484,礼物,gift,27,6.555555556,0.751067616,29,4.724137931,2.153013697,Basic activities,Consumption
+485,理发,haircut,30,5.6,1.379655129,30,2.7,1.622046387,Basic activities,Basic life activities
+486,理解,understand,28,6.357142857,1.28277147,27,3.333333333,1.709700829,Expanded activities,Psychology
+487,利息,interest,26,6.423076923,1.653434654,29,5.034482759,2.129432497,Basic activities,Consumption
+488,联系,connect,26,5.576923077,1.419100473,28,4.428571429,1.069044968,Expanded activities,Communication
+489,练习,practise,27,5.037037037,0.758616224,27,2.814814815,1.359780441,Expanded activities,Others
+490,恋爱,in love,29,7.379310345,1.612757025,31,5.35483871,2.074421801,Expanded activities,Others
+491,良心,conscience,29,6.275862069,1.221724534,30,3.866666667,1.775956922,Expanded activities,Psychology
+492,良性,benign,21,6.142857143,1.31475147,28,4.25,2.382420182,Basic activities,Nursing
+493,凉水,cold water,26,4.423076923,0.757526339,27,3.148148148,1.261979632,Basic activities,Basic life activities
+494,粮食,grain,30,6.033333333,1.272611579,27,3.592592593,2.004979556,Basic activities,Basic life activities
+495,聊天,chat,30,6.066666667,1.362890775,25,2.28,1.568438714,Expanded activities,Communication
+496,邻居,neighbor,27,5.703703704,0.953326759,27,3.407407407,1.525658981,Expanded activities,Communication
+497,临终,dying,27,1.851851852,1.026708846,29,5.75862069,2.586436771,Expanded activities,Others
+498,零钱,pocket money,29,6.482758621,1.478915859,25,1.44,1.003327796,Basic activities,Consumption
+499,零食,snack,30,6.033333333,1.496739752,31,4.032258065,2.228360697,Basic activities,Basic life activities
+500,领取,receive,26,5.769230769,0.862910995,28,3.5,1.527525232,Expanded activities,Others
+501,领悟,comprehend,27,6.185185185,1.272098117,27,3.037037037,1.453946393,Expanded activities,Psychology
+502,流感,influenza,29,2.448275862,0.827483573,27,5.222222222,1.601281538,Basic activities,Nursing
+503,流泪,tear,29,2.137931034,1.025536025,26,4.884615385,2.534985966,Expanded activities,Psychology
+504,流量,flow,30,4.466666667,1.224275531,30,3.933333333,2.066703745,Expanded activities,Communication
+505,流血,bleed,30,2,0.946864153,26,5.923076923,2.207678906,Basic activities,Nursing
+506,遛弯,take a walk,29,6,1,30,4.166666667,1.931291034,Expanded activities,Leisure
+507,楼梯,stairs,29,4.344827586,0.720905287,26,3.346153846,1.874935896,Basic activities,Basic life activities
+508,轮椅,wheelchair,28,2.285714286,1.272418021,31,5.161290323,2.794002794,Basic activities,Nursing
+509,旅游,travel,22,7.318181818,0.779887882,28,5.821428571,2.228661306,Expanded activities,Leisure
+510,绿灯,green light,30,5.166666667,1.205828756,26,2.730769231,1.429900481,Expanded activities,Others
+511,妈妈,mom,31,7.483870968,1.150969671,30,4.5,2.487901761,Expanded activities,Communication
+512,麻烦,trouble,29,2.482758621,0.633622784,26,6.346153846,1.719123211,Expanded activities,Psychology
+513,麻将,mahjong,28,4.607142857,1.523623501,29,4.689655172,2.237719634,Expanded activities,Leisure
+514,麻药,anesthetic,30,2.7,1.149212624,29,4.724137931,2.519871762,Basic activities,Nursing
+515,马桶,closestool,30,3.9,1.68870487,25,2.6,2.020725942,Basic activities,Basic life activities
+516,埋怨,complain,27,3.148148148,0.662379377,26,6,1.496662955,Expanded activities,Psychology
+517,满意,satisfy,30,7.7,1.235955585,25,2.32,1.908751774,Expanded activities,Psychology
+518,莽撞,reckless,30,2.933333333,0.907187139,29,6.551724138,1.428940839,Expanded activities,Psychology
+519,毛笔,writing brush,25,4.88,0.781024968,29,2.827586207,1.582695836,Expanded activities,Leisure
+520,毛病,fault,28,2.428571429,0.741798187,27,6.481481481,1.39698495,Basic activities,Nursing
+521,毛巾,towel,21,4.952380952,0.21821789,27,1.962962963,0.85401682,Basic activities,Basic life activities
+522,毛衣,sweater,27,5.296296296,0.823445613,27,1.962962963,0.758616224,Basic activities,Basic life activities
+523,冒险,adventure,27,2.925925926,0.729906523,29,5.689655172,2.123061272,Expanded activities,Psychology
+524,帽子,hat,29,5.24137931,1.272095358,30,3.266666667,1.910647721,Basic activities,Basic life activities
+525,没空,no time,29,4.24137931,0.950758059,31,4.064516129,2.096592217,Expanded activities,Others
+526,没事,don't worry,30,5.833333333,1.464130514,27,2.666666667,1.61721508,Expanded activities,Psychology
+527,没用,useless,30,3.3,1.178836364,29,4.275862069,2.136361254,Expanded activities,Psychology
+528,煤气,coalgas,29,4.517241379,0.870988341,27,3.407407407,1.865872847,Basic activities,Housework
+529,美女,beauty,26,6.730769231,1.218447941,28,3.75,1.713238216,Expanded activities,Communication
+530,美食,delicious food,26,7.576923077,1.137473584,29,5.517241379,1.975215895,Basic activities,Basic life activities
+531,妹夫,younger sister's husband,26,5.538461538,1.103839453,27,2.666666667,1.467598771,Expanded activities,Communication
+532,妹妹,younger sister,26,6.230769231,1.176696811,26,2.692307692,1.319673619,Expanded activities,Communication
+533,门票,entrance ticket,21,4.80952381,0.813575296,26,2.692307692,1.40767129,Basic activities,Consumption
+534,门诊,outpatient,28,3.5,1.232281834,27,4.407407407,2.240522934,Basic activities,Nursing
+535,梦想,dream,30,6.033333333,1.607811392,26,4.692307692,2.131088563,Expanded activities,Psychology
+536,迷路,get lost,29,2.482758621,0.949461865,26,6.192307692,1.442753777,Expanded activities,Others
+537,米饭,rice,26,6.692307692,1.761118526,29,2.827586207,1.605102701,Basic activities,Basic life activities
+538,密码,password,26,4.846153846,0.464095481,29,3.137931034,1.826865738,Basic activities,Consumption
+539,免费,free,28,6.5,1.319371343,27,4.074074074,1.858989095,Basic activities,Consumption
+540,面条,noodle,29,5.793103448,1.048104082,25,2,1.443375673,Basic activities,Basic life activities
+541,面子,reputation,31,6,1.238278375,30,4.133333333,2.19298778,Expanded activities,Psychology
+542,敏感,sensitive,29,4.827586207,1.489701924,31,4.64516129,1.871690628,Expanded activities,Psychology
+543,名医,famous doctor,27,5.851851852,0.988538303,28,5.392857143,2.266328173,Basic activities,Nursing
+544,明白,clear,27,5.777777778,1.250640861,27,2.481481481,1.122167215,Expanded activities,Psychology
+545,抹布,rag,29,4.689655172,1.16813185,29,2.827586207,1.691765044,Basic activities,Housework
+546,母亲,mother,28,6.607142857,1.547741143,29,2.965517241,2.227791325,Expanded activities,Communication
+547,奶奶,grandmother,28,7.071428571,1.67616342,31,3,2.097617696,Expanded activities,Communication
+548,男孩,boy,30,7.066666667,1.412587094,31,4.193548387,2.600248127,Expanded activities,Communication
+549,男人,man,20,5.05,0.394034463,28,3.5,1.875771446,Expanded activities,Communication
+550,难受,uncomfortable,24,1.833333333,0.868114732,28,6.428571429,1.372442306,Basic activities,Nursing
+551,恼火,annoyed,28,1.821428571,0.669636243,29,7.310344828,0.967450563,Expanded activities,Psychology
+552,闹心,upset,27,2.703703704,0.868899163,27,5.37037037,1.924500897,Expanded activities,Psychology
+553,闹钟,alarm clock,27,4.407407407,0.930643254,28,3.642857143,2.129411077,Basic activities,Basic life activities
+554,内疚,guilty,29,3.068965517,1.334461756,26,4.653846154,2.134334701,Expanded activities,Psychology
+555,内科,internal medicine,28,3.857142857,1.078898125,27,4.222222222,1.694637091,Basic activities,Nursing
+556,内向,introverted,30,4.733333333,0.739679956,29,2.724137931,1.436676515,Expanded activities,Psychology
+557,你好,hello,29,7.517241379,0.870988341,27,4.481481481,2.100739254,Expanded activities,Communication
+558,溺爱,spoil,31,4.806451613,1.851474275,30,4.666666667,2.005738893,Expanded activities,Psychology
+559,牛奶,milk,29,6.379310345,1.082780584,27,3.333333333,2.236067977,Basic activities,Basic life activities
+560,农村,rural area,27,5.222222222,1.012739367,28,3.178571429,1.963624227,Expanded activities,Others
+561,暖和,warm,30,6.9,0.922889017,30,4.066666667,1.910647721,Expanded activities,Others
+562,暖气,heating,28,6.178571429,1.492042384,29,3.827586207,2.18875316,Expanded activities,Others
+563,女儿,daughter,26,6.884615385,1.275207374,28,3.607142857,2.499470843,Expanded activities,Communication
+564,女孩,girl,26,6.115384615,1.243444348,29,3.862068966,1.787339162,Expanded activities,Communication
+565,女人,woman,30,5.366666667,1.376736104,26,3.115384615,1.751043645,Expanded activities,Communication
+566,女生,female student,26,6.038461538,1.24838357,29,3.862068966,1.940620997,Expanded activities,Communication
+567,女婿,son in law,29,6.862068966,1.705540089,31,3.967741935,2.152268121,Expanded activities,Communication
+568,呕吐,vomit,29,1.620689655,0.727706431,30,7.066666667,2.016027732,Basic activities,Nursing
+569,爬山,climb mountains,28,6.321428571,1.334820599,27,5.555555556,1.423250163,Expanded activities,Leisure
+570,拍照,photograph,26,6.653846154,1.231009592,28,3.892857143,2.114137346,Expanded activities,Leisure
+571,排队,queue,21,4.285714286,1.007117528,27,3.666666667,1.441153384,Basic activities,Nursing
+572,攀比,compare,28,3.821428571,1.362284884,29,3.896551724,1.496300858,Expanded activities,Psychology
+573,盘子,plate,28,5.214285714,1.19743995,30,2.5,1.279816797,Basic activities,Housework
+574,盼望,look forward to,30,6,1.640016821,31,5.032258065,2.105292869,Expanded activities,Psychology
+575,佩服,admire,27,6.740740741,1.227649179,27,4.333333333,1.61721508,Expanded activities,Psychology
+576,朋友,friend,28,6.964285714,0.922241346,28,4.571428571,2.007920823,Expanded activities,Communication
+577,疲劳,fatigue,29,3.413793103,1.210585495,26,5.307692308,2.541955637,Basic activities,Nursing
+578,脾气,temper,27,3.296296296,0.992851946,27,5.037037037,2.488148547,Expanded activities,Psychology
+579,偏爱,preference,30,6.233333333,1.194335289,27,4.407407407,1.886373388,Expanded activities,Psychology
+580,偏心,eccentric,29,2.620689655,0.97884017,31,5.032258065,2.136724455,Expanded activities,Psychology
+581,骗子,liar,29,1.517241379,0.633622784,26,8,0.938083152,Basic activities,Consumption
+582,漂亮,beautiful,22,7.409090909,1.05375026,27,5.703703704,2.317405957,Expanded activities,Psychology
+583,贫血,anemia,28,3.035714286,0.881166855,29,4.551724138,1.900868352,Basic activities,Nursing
+584,频道,channel,30,5.466666667,1.136641554,30,3.866666667,1.696514344,Expanded activities,Leisure
+585,平安,safety,28,7.071428571,1.303231637,28,2.785714286,2.096860843,Expanded activities,Psychology
+586,苹果,apple,30,6,1.313064329,26,2.846153846,1.592289112,Basic activities,Basic life activities
+587,婆婆,mother in law,29,5.379310345,1.146852622,26,2.961538462,1.660861686,Expanded activities,Communication
+588,扑克,poker,21,4.714285714,0.717137166,28,3.25,1.456149158,Expanded activities,Leisure
+589,朴素,plain and not decorated,25,5.48,1.122497216,29,3.068965517,1.307424799,Expanded activities,Psychology
+590,妻子,wife,28,6.357142857,1.520581899,28,2.428571429,1.619981057,Expanded activities,Communication
+591,期待,expect,30,6.533333333,1.252124631,26,3.615384615,2.350777286,Expanded activities,Psychology
+592,期望,expect,22,6.681818182,1.286796082,27,4.888888889,1.948043068,Expanded activities,Psychology
+593,奇怪,strangeness,30,4.566666667,1.356550731,31,4.709677419,1.81095828,Expanded activities,Psychology
+594,奇迹,miracle,21,6.952380952,0.497613352,27,6.62962963,1.620734595,Expanded activities,Psychology
+595,歧视,discriminate,29,2.551724138,1.212618386,26,5.038461538,2.806859729,Expanded activities,Psychology
+596,骑车,cycling,29,5.551724138,1.120784384,27,4.666666667,2.112235418,Expanded activities,Others
+597,起床,get up,28,5.214285714,0.917207633,29,3.068965517,1.751143187,Basic activities,Basic life activities
+598,起飞,take off,22,5.5,1.654719081,28,4.678571429,1.72247822,Expanded activities,Others
+599,牵挂,care,22,5.363636364,1.590012116,28,4.821428571,2.073707923,Expanded activities,Psychology
+600,牵连,implicated,28,3.357142857,1.496026483,31,5.774193548,2.15576247,Expanded activities,Psychology
+601,签字,signiture,21,4.952380952,0.384212243,27,3.62962963,1.904410835,Basic activities,Nursing
+602,钱包,wallet,29,5.965517241,1.375363812,30,4.3,2.409034719,Basic activities,Consumption
+603,欠费,arrears,26,2.884615385,0.863801972,27,5.814814815,1.54514219,Basic activities,Consumption
+604,欠债,in debt,30,1.733333333,0.907187139,26,6.884615385,2.658223814,Basic activities,Consumption
+605,强势,strong,30,4.3,2.246069364,26,5.192307692,2.698432593,Expanded activities,Psychology
+606,抢救,rescue,28,2.428571429,1.989389846,25,8,1.443375673,Basic activities,Nursing
+607,敲诈,blackmail,30,1.633333333,0.718395402,30,7.733333333,1.142692927,Basic activities,Consumption
+608,桥牌,bridge card,28,4.321428571,1.389206313,27,3.037037037,1.628625694,Expanded activities,Leisure
+609,亲家,relatives by marriage,31,6.225806452,1.383466116,30,4.466666667,2.19298778,Expanded activities,Communication
+610,亲密,close,29,7.517241379,1.089583461,25,3.08,1.934769581,Expanded activities,Psychology
+611,亲戚,relative,27,5.925925926,1.141049649,28,2.75,1.530553035,Expanded activities,Communication
+612,亲切,kind,29,7.344827586,0.813978855,30,4.866666667,1.775956922,Expanded activities,Psychology
+613,亲人,relative,26,7.307692308,1.435805858,29,5.620689655,2.094444916,Expanded activities,Communication
+614,勤奋,diligent,28,6.642857143,1.095928009,28,4.964285714,1.85556506,Expanded activities,Psychology
+615,轻松,relaxed,28,6.714285714,1.083791112,28,2.75,1.624465724,Expanded activities,Psychology
+616,清淡,light,30,5.533333333,1.105888107,27,3.148148148,2.178632311,Basic activities,Housework
+617,情感,emotion,29,6.655172414,1.470565053,31,5.161290323,2.13067711,Expanded activities,Psychology
+618,情侣,couple,28,6.392857143,1.165532328,27,4.222222222,2.224571408,Expanded activities,Communication
+619,情绪,mood,26,4.230769231,0.908083358,29,4.724137931,1.830233235,Expanded activities,Psychology
+620,晴天,sunny,22,6.545454545,1.05682691,28,4.321428571,2.735954995,Expanded activities,Others
+621,请柬,invitation card,26,6.461538462,1.794007118,29,5.310344828,1.814691006,Expanded activities,Others
+622,请客,treat,27,6.740740741,1.095185007,27,5.259259259,2.229049342,Basic activities,Housework
+623,请帖,invitation card,25,6.72,1.514375559,29,5.689655172,1.983925551,Expanded activities,Others
+624,求婚,proposal,28,7.071428571,1.11980724,27,5.666666667,1.961161351,Expanded activities,Others
+625,娶亲,get married,29,7.862068966,1.025536025,29,7.655172414,1.369980763,Expanded activities,Others
+626,去世,passed away,28,1.428571429,0.790151014,29,7.655172414,1.494653856,Expanded activities,Others
+627,权力,power,28,5.571428571,1.47644647,29,3.827586207,1.928525816,Expanded activities,Others
+628,确诊,confirmed,30,3.1,1.647359434,30,5.366666667,2.07586016,Basic activities,Nursing
+629,裙子,skirt,24,5.375,1.312564698,27,2.962962963,1.580688299,Basic activities,Basic life activities
+630,让座,offer one 's seat,29,7.448275862,1.270157664,25,2.56,1.872609587,Expanded activities,Others
+631,热爱,love,29,7.586206897,1.086187348,26,4.115384615,2.673229105,Expanded activities,Psychology
+632,热水,hot water,26,6.230769231,1.21021295,29,4.068965517,1.688850718,Basic activities,Basic life activities
+633,热心,enthusiastic,30,7.233333333,1.568731825,31,4.838709677,2.367794673,Expanded activities,Psychology
+634,人才,talent,29,7.310344828,1.31212609,26,3.730769231,2.793674173,Expanded activities,Others
+635,人工,artificial,27,4.703703704,1.030862776,28,2.678571429,1.248808956,Expanded activities,Communication
+636,人情,favor,28,5.928571429,1.513606716,28,3.321428571,1.564740457,Expanded activities,Psychology
+637,忍心,bear with heart,30,3.766666667,1.675036455,26,4.615384615,2.515184654,Expanded activities,Psychology
+638,认识,know,22,5.590909091,0.796366206,27,3.703703704,1.877289675,Expanded activities,Others
+639,认真,earnest,28,6.5,1.138550085,29,4.172413793,2.673533851,Expanded activities,Psychology
+640,任务,task,25,5.48,1.194431524,28,4.678571429,1.846990975,Expanded activities,Others
+641,荣幸,pleasure,30,7.733333333,0.784915253,25,6.64,1.036018018,Expanded activities,Psychology
+642,撒谎,lie,30,1.933333333,1.048260738,26,6,2.297825059,Basic activities,Consumption
+643,洒脱,free and easy,28,7.035714286,1.170063083,29,4.586206897,2.228344058,Expanded activities,Psychology
+644,散步,take a walk,28,5.964285714,1.137969044,28,2.928571429,1.48893627,Expanded activities,Leisure
+645,丧气,discouraged,28,2.25,0.927960727,27,6.148148148,1.895413568,Expanded activities,Psychology
+646,扫把,broom,27,4.851851852,0.456045182,27,2.555555556,1.28102523,Basic activities,Housework
+647,扫地,sweep the floor,21,4.714285714,0.643650304,26,2.5,1.029563014,Basic activities,Housework
+648,扫兴,disappointing,27,2.740740741,0.712125345,27,4.740740741,1.972748816,Expanded activities,Psychology
+649,扫帚,broom,25,4.96,1.019803903,29,3.034482759,1.657941034,Basic activities,Housework
+650,嫂子,sister in law,28,6.428571429,1.501322169,25,1.44,0.768114575,Expanded activities,Communication
+651,善良,kind-hearted,29,7.793103448,0.940338478,25,1.92,1.630950643,Expanded activities,Psychology
+652,赡养,support,21,5.666666667,1.016530045,28,4.071428571,1.844482692,Basic activities,Nursing
+653,伤疤,scar,31,2.35483871,0.838585599,30,4.8,1.882771252,Basic activities,Nursing
+654,伤害,harm,26,2.269230769,0.827414881,27,6.592592593,1.646891227,Expanded activities,Psychology
+655,伤口,wound,30,2.366666667,1.098065174,31,5.483870968,1.947151214,Basic activities,Nursing
+656,伤势,injury,26,2.269230769,0.919029589,28,7.178571429,1.248808956,Basic activities,Nursing
+657,伤心,sad,29,1.965517241,0.981353243,26,5.769230769,2.405122738,Expanded activities,Psychology
+658,商场,shopping mall,28,5.642857143,0.951189731,29,3.24137931,1.661650909,Basic activities,Consumption
+659,商店,shop,30,5.333333333,1.028334218,27,3.62962963,2.02195922,Basic activities,Consumption
+660,上班,go to work,21,5.238095238,0.700340053,27,3.222222222,1.552500052,Expanded activities,Others
+661,上车,get on the bus,26,5.269230769,0.96156923,28,2.75,1.404358296,Expanded activities,Others
+662,上当,fooled,22,2.136363636,0.774317183,27,7.481481481,1.477273225,Basic activities,Consumption
+663,上课,attend class,26,5.192307692,1.296741478,27,2.814814815,1.442141491,Expanded activities,Leisure
+664,上楼,go upstairs,29,4.310344828,0.92980214,27,3.703703704,2.180592982,Basic activities,Basic life activities
+665,上网,go online,26,5.615384615,1.877805593,29,4.517241379,1.682275025,Expanded activities,Communication
+666,上学,go to school,27,6,1.270977819,28,3.75,1.936491673,Expanded activities,Others
+667,勺子,spoon,26,5.038461538,0.598716576,26,1.923076923,0.890980445,Basic activities,Housework
+668,社保,social security,26,6.076923077,1.293772064,28,4,2.09054308,Expanded activities,Others
+669,社区,community,27,5.407407407,0.930643254,27,3.555555556,1.761409692,Expanded activities,Others
+670,摄影,photography,30,6.133333333,1.332183412,27,4.925925926,1.752491104,Expanded activities,Leisure
+671,身体,body,30,5.666666667,1.372973951,27,3.333333333,1.775907135,Basic activities,Nursing
+672,神经,nerve,22,4.181818182,1.332250643,28,4.25,1.075828707,Expanded activities,Psychology
+673,神奇,magic,30,5.933333333,1.740656502,26,5.076923077,2.133974263,Expanded activities,Psychology
+674,婶婶,aunt,27,5.851851852,1.378508216,29,2.517241379,1.429802425,Expanded activities,Communication
+675,生病,get ill,30,2.2,0.924755326,27,6.185185185,1.961887573,Basic activities,Nursing
+676,生活,life,26,6.230769231,1.39449467,28,3.392857143,1.685214256,Expanded activities,Others
+677,生命,life,28,6.642857143,1.366647309,28,4.5,2.441917886,Basic activities,Nursing
+678,生气,angry,24,2.125,0.899879219,28,6.821428571,1.564740457,Expanded activities,Psychology
+679,省心,free from worry,28,6.071428571,1.438326482,25,1.04,0.2,Expanded activities,Psychology
+680,盛饭,serve rice,26,5.346153846,0.891843381,28,3,1.805341868,Basic activities,Basic life activities
+681,剩饭,leftovers,29,3.379310345,1.373571806,31,3.709677419,2.479160454,Basic activities,Basic life activities
+682,失恋,lovelorn,27,2.333333333,0.919866211,27,6.296296296,2.462250609,Expanded activities,Others
+683,失眠,insomnia,28,2.75,1.004618962,29,5.310344828,1.983925551,Basic activities,Basic life activities
+684,失去,lose,26,2.538461538,0.989172148,28,5.142857143,1.89959617,Expanded activities,Others
+685,失望,disappointment,30,2.3,0.836660027,31,6.258064516,2.29445334,Expanded activities,Psychology
+686,失业,unemployment,29,2.275862069,1.065583399,27,6.555555556,2.044379412,Expanded activities,Others
+687,师傅,master,27,6.592592593,1.185140669,27,4.259259259,2.011363728,Expanded activities,Others
+688,时间,time,26,5.923076923,1.494605685,29,3.827586207,1.712745614,Expanded activities,Others
+689,实话,truth,25,6.64,1.604161255,29,4.275862069,1.962078922,Expanded activities,Communication
+690,实惠,affordable,30,6.166666667,1.053183461,31,4.516129032,2.15825497,Basic activities,Consumption
+691,实力,strength,29,6.448275862,0.869573249,29,4.862068966,1.807210517,Expanded activities,Others
+692,实用,practical,30,6.566666667,1.356550731,24,1.75,1.073393643,Basic activities,Consumption
+693,实在,really,26,5.384615385,0.697247335,27,3.037037037,1.556165936,Expanded activities,Psychology
+694,食品,food,25,5.8,0.816496581,28,3.285714286,1.46204177,Basic activities,Basic life activities
+695,食堂,canteen,26,5.307692308,0.735892969,28,2.571428571,1.451144412,Basic activities,Housework
+696,食欲,appetite,26,5.153846154,0.880559263,28,3.821428571,1.866935922,Basic activities,Basic life activities
+697,市场,market,30,5.066666667,0.868344971,27,3.925925926,2.110886178,Basic activities,Consumption
+698,事故,accident,25,2,0.912870929,29,7.206896552,1.76026196,Basic activities,Nursing
+699,事实,fact,22,5.636363636,1.048602451,28,4.142857143,2.013184058,Expanded activities,Others
+700,事业,career,26,5.807692308,1.233506571,29,5.137931034,1.807210517,Expanded activities,Others
+701,视频,video,22,5.409090909,0.796366206,28,4.25,1.95552399,Expanded activities,Communication
+702,释怀,let go,30,5.466666667,1.455864084,31,4.806451613,1.939404631,Expanded activities,Psychology
+703,释然,relieved,27,5.925925926,1.071516751,27,3.185185185,1.664956387,Expanded activities,Psychology
+704,收获,reward,29,7.586206897,0.907006118,26,6.576923077,1.501281504,Expanded activities,Others
+705,收款,receive payment,27,6.851851852,1.378508216,28,4.821428571,2.435137405,Basic activities,Consumption
+706,收拾,tidy up,29,4.862068966,1.355521458,30,4.266666667,2.164499358,Basic activities,Housework
+707,收益,income,24,7.291666667,1.301476308,27,6.407407407,1.692955069,Basic activities,Consumption
+708,手表,watch,24,5.333333333,0.916831342,27,2.888888889,1.694637091,Basic activities,Basic life activities
+709,手机,mobile phone,28,5.5,1.503083251,26,2.846153846,1.286617509,Expanded activities,Communication
+710,手术,operation,28,1.785714286,0.917207633,26,7.576923077,0.856648209,Basic activities,Nursing
+711,手套,glove,30,5.366666667,1.90250893,25,1.76,1.164760347,Basic activities,Basic life activities
+712,手艺,craft,29,6.413793103,1.547284289,31,4.096774194,1.88599821,Basic activities,Housework
+713,寿星,a person whose birthday is being celebrated,29,7.724137931,1.031522859,27,5.777777778,2.358835001,Expanded activities,Communication
+714,寿宴,birthday feast,27,7,1.240347346,29,4.517241379,2.063642578,Expanded activities,Communication
+715,受骗,deceived,30,1.533333333,0.776079152,30,7.866666667,1.306042544,Basic activities,Consumption
+716,受伤,hurt,28,1.678571429,0.722832465,31,6.35483871,2.122080537,Expanded activities,Psychology
+717,书包,schoolbag,25,5.36,0.952190457,27,1.851851852,0.662379377,Expanded activities,Others
+718,书法,calligraphy,26,5.5,1.392838828,29,3.344827586,1.758161826,Expanded activities,Leisure
+719,叔叔,uncle,26,5.384615385,0.752431955,27,2.925925926,1.639088066,Expanded activities,Communication
+720,梳头,comb hair,27,5.148148148,0.818239372,28,2.5,1.232281834,Basic activities,Basic life activities
+721,梳子,comb,25,5.6,1.08012345,28,2.178571429,1.389206313,Basic activities,Basic life activities
+722,舒服,comfortable,28,7.178571429,0.983326607,28,3.821428571,2.539372501,Expanded activities,Psychology
+723,舒坦,comfortable,28,6.714285714,1.083791112,27,2.888888889,1.783111656,Expanded activities,Psychology
+724,舒心,comfortable,29,7.24137931,1.327058305,30,4.266666667,2.066703745,Expanded activities,Psychology
+725,输血,blood transfusion,28,2.821428571,2.019416334,26,6.538461538,2.641677789,Basic activities,Nursing
+726,输液,infusion,22,3.5,1.144344271,28,4.5,1.953155092,Basic activities,Nursing
+727,蔬菜,vegetable,28,6.178571429,1.123933945,28,3.535714286,2.00890873,Basic activities,Basic life activities
+728,熟人,acquaintance,22,6.363636364,1.09307145,28,4.785714286,1.750283424,Expanded activities,Communication
+729,熟悉,familiar,25,5.48,1.122497216,28,2.642857143,1.19301317,Expanded activities,Others
+730,暑假,summer vacation,25,6.36,1.704894914,28,4.392857143,1.812289032,Expanded activities,Others
+731,漱口,gargle,28,5.75,1.530553035,25,1.8,1.154700538,Basic activities,Basic life activities
+732,刷牙,brush teeth,26,4.846153846,0.367946484,27,2.111111111,1.219499687,Basic activities,Basic life activities
+733,衰弱,weak,30,2.533333333,0.937102406,27,5.481481481,1.649484077,Basic activities,Nursing
+734,摔倒,fall,28,2.357142857,1.061595086,26,6.153846154,2.493067311,Basic activities,Nursing
+735,帅哥,handsome guy,25,7.28,1.061445555,29,4.310344828,2.089146242,Expanded activities,Communication
+736,爽快,readily,29,7.206896552,1.448627684,31,5.419354839,2.363249085,Expanded activities,Psychology
+737,爽朗,hearty,28,7.571428571,0.690065559,28,4.857142857,1.799470822,Expanded activities,Psychology
+738,水费,water fee,22,4.863636364,0.351250087,27,2.703703704,1.539600718,Basic activities,Consumption
+739,水果,fruit,28,5.678571429,0.983326607,28,3.071428571,1.864454471,Basic activities,Basic life activities
+740,水平,level,23,5.304347826,0.822124886,28,4.071428571,1.824292281,Expanded activities,Others
+741,睡觉,sleep,26,6.576923077,1.361560191,29,3.068965517,1.771420626,Basic activities,Basic life activities
+742,睡眠,sleep,30,5.766666667,1.304721752,30,3.133333333,1.925031721,Basic activities,Basic life activities
+743,顺从,obedience,29,5.586206897,1.018305363,29,3.551724138,1.681542806,Expanded activities,Psychology
+744,说服,persuade,24,4.875,0.991814323,28,5.25,1.993043457,Expanded activities,Psychology
+745,说话,speak,21,5.095238095,0.624880941,27,3.148148148,1.459813047,Expanded activities,Communication
+746,司机,driver,30,5.766666667,1.330888563,31,3.193548387,1.869391253,Expanded activities,Others
+747,丝巾,silk scarf,22,5.227272727,0.528413455,27,2.740740741,1.654657589,Basic activities,Basic life activities
+748,思念,miss,28,5.571428571,1.47644647,29,5.137931034,2.26343825,Expanded activities,Psychology
+749,送礼,give gifts,29,6.517241379,1.502870816,26,5.846153846,1.541228281,Basic activities,Consumption
+750,素质,quality,26,6.076923077,1.412036173,28,3.928571429,2.053516792,Expanded activities,Psychology
+751,算计,scheme against sb,30,2.966666667,1.245220749,26,3.923076923,2.448233272,Expanded activities,Psychology
+752,算数,count,25,5.12,0.881286938,27,3.148148148,1.350319156,Expanded activities,Psychology
+753,随便,whatever,21,4.761904762,0.624880941,27,2.925925926,1.439175136,Expanded activities,Psychology
+754,随和,easy going,26,6.038461538,1.310901041,29,3.862068966,1.99506781,Expanded activities,Psychology
+755,岁数,age,27,4.777777778,0.640512615,27,3.518518519,1.928936941,Expanded activities,Communication
+756,孙女,granddaughter,25,7,1.38443731,27,3.481481481,1.695477477,Expanded activities,Communication
+757,孙子,grandson,21,6.761904762,1.300183137,28,4.107142857,2.114137346,Expanded activities,Communication
+758,锁门,lock the door,22,4.954545455,1.252702706,28,3.571428571,2.23488456,Expanded activities,Others
+759,踏实,steadfast,28,6.357142857,1.223664373,27,2.962962963,1.652072858,Expanded activities,Psychology
+760,太阳,sun,30,7.6,1.275768869,30,5.233333333,2.635085987,Expanded activities,Others
+761,态度,attitude,27,6.148148148,1.378508216,28,4.142857143,1.671421788,Expanded activities,Psychology
+762,瘫痪,paralysis,28,1.964285714,0.881166855,29,6,2.299068134,Basic activities,Nursing
+763,堂哥,elder brother from the father side,29,4.793103448,0.675029647,27,3.222222222,1.739436985,Expanded activities,Communication
+764,堂姐,elder sister from the father side,30,5.966666667,1.670914128,31,3.419354839,2.045714114,Expanded activities,Communication
+765,讨厌,hate,22,2.181818182,0.664498639,28,5.75,1.691481928,Expanded activities,Psychology
+766,体检,physical examination,30,4.9,1.583318209,27,5.148148148,1.875011871,Basic activities,Nursing
+767,体谅,considerate,22,5.272727273,1.351606388,28,4.535714286,2.151350013,Expanded activities,Psychology
+768,体贴,considerate,27,7.037037037,1.018350154,29,3.620689655,2.111427971,Expanded activities,Psychology
+769,天气,weather,30,5.6,1.132589343,26,3.192307692,1.811501714,Expanded activities,Others
+770,填表,fill out the form,29,4.827586207,0.601721668,27,2.481481481,1.155933535,Expanded activities,Others
+771,条理,organized,28,5.714285714,1.511857892,25,1.64,0.860232527,Expanded activities,Psychology
+772,跳舞,dancing,30,7.033333333,1.129031728,27,5.777777778,2.100061049,Expanded activities,Leisure
+773,贴心,intimate,28,6.892857143,1.065947178,29,3.896551724,2.143842138,Expanded activities,Psychology
+774,听从,obey,25,5.56,1.416568624,29,4.413793103,1.658683673,Expanded activities,Psychology
+775,通话,call,27,5.444444444,0.847318546,29,3.724137931,1.485562705,Expanded activities,Communication
+776,同情,pity,22,5,1.309307341,28,4.5,1.503083251,Expanded activities,Psychology
+777,同事,colleague,24,5.458333333,0.883627241,28,4.035714286,1.794686455,Expanded activities,Communication
+778,同学,classmate,30,7.166666667,1.440386283,31,4.838709677,1.845657502,Expanded activities,Communication
+779,同桌,deskmate,27,6,1,28,3.785714286,2.024976321,Expanded activities,Others
+780,痛风,gout,24,2.083333333,0.829702234,28,6.785714286,1.370513363,Basic activities,Nursing
+781,痛快,happy,25,7.16,0.898146239,28,5.214285714,2.006602857,Expanded activities,Psychology
+782,痛心,grieved,27,2.037037037,0.85401682,29,6.310344828,1.754656016,Expanded activities,Psychology
+783,头发,hair,29,4.551724138,0.631676166,26,2.653846154,1.623386773,Basic activities,Basic life activities
+784,头疼,headache,30,2.266666667,0.907187139,26,5.538461538,2.436895882,Expanded activities,Psychology
+785,头绪,clue,27,4.37037037,0.741523803,29,3.965517241,1.700478055,Expanded activities,Psychology
+786,投入,invest in,30,6.3,1.31699763,29,5.206896552,1.93426454,Expanded activities,Psychology
+787,团聚,reunite,30,8.133333333,0.819307249,31,6.483870968,2.307537905,Expanded activities,Communication
+788,推拿,tuina,27,4.518518519,1.340791109,28,3.785714286,1.343217333,Basic activities,Nursing
+789,退化,degenerate,30,2.866666667,1.502488357,26,4.653846154,2.622095463,Basic activities,Nursing
+790,退休,retire,27,6.481481481,1.503083251,29,3.75862069,2.262349796,Expanded activities,Others
+791,拖鞋,slippers,26,5.153846154,0.731699812,27,2.481481481,1.220667231,Basic activities,Basic life activities
+792,袜子,sock,27,4.962962963,0.706098788,28,1.928571429,0.857583661,Basic activities,Basic life activities
+793,外公,grandfather,28,5.857142857,1.778769565,28,3.821428571,2.245218317,Expanded activities,Communication
+794,外科,surgery,27,4.222222222,1.250640861,29,3.827586207,2.155871808,Basic activities,Nursing
+795,外婆,grandmother,28,6.357142857,1.28277147,28,2.535714286,1.346659595,Expanded activities,Communication
+796,外甥,nephew,25,6.12,1.53622915,28,4.535714286,2.317120545,Expanded activities,Communication
+797,外套,coat,28,5,0.471404521,30,3.1,1.729061934,Basic activities,Basic life activities
+798,外向,outgoing,21,5.619047619,1.116968687,28,3.714285714,1.301200097,Expanded activities,Psychology
+799,玩具,toy,26,5.615384615,1.098250357,28,2.928571429,1.67616342,Basic activities,Consumption
+800,玩笑,joke,30,6.733333333,1.2298958,27,5.777777778,1.339728254,Expanded activities,Communication
+801,晚辈,younger generation,28,6.428571429,1.168366109,28,3.785714286,2.006602857,Expanded activities,Communication
+802,忘记,forget,25,3.28,1.339153962,29,4.75862069,1.883294462,Expanded activities,Psychology
+803,危险,danger,28,2.285714286,0.854493259,29,6,2.017778127,Basic activities,Nursing
+804,威胁,threat,28,2,0.860662966,28,6.785714286,1.750283424,Expanded activities,Psychology
+805,围巾,scarf,26,5.346153846,0.797110165,28,2.678571429,1.362284884,Basic activities,Basic life activities
+806,围裙,apron,30,4.766666667,0.817200154,29,3.068965517,1.533693825,Basic activities,Housework
+807,委屈,grievance,26,2.807692308,0.938902797,28,5.607142857,1.87259546,Expanded activities,Psychology
+808,委婉,euphemistic,30,4.733333333,1.595971941,27,3.481481481,1.805341868,Expanded activities,Others
+809,卫生,hygiene,30,5.466666667,1.407696415,27,3.851851852,2.143033502,Basic activities,Housework
+810,为难,embarrassed,26,2.653846154,0.845804124,28,5.821428571,1.540888907,Expanded activities,Psychology
+811,胃口,appetite,31,5.870967742,1.310011081,30,3.266666667,1.595971941,Basic activities,Basic life activities
+812,慰问,condolences,28,6.892857143,0.994029797,27,4.925925926,1.639088066,Expanded activities,Psychology
+813,温度,temperature,21,4.904761905,0.43643578,28,3.357142857,1.66030532,Basic activities,Basic life activities
+814,温柔,gentle,30,7.333333333,1.295438505,31,3.935483871,2.264736686,Expanded activities,Psychology
+815,文明,civilization,26,6.346153846,1.440619525,27,3.222222222,1.717183144,Expanded activities,Others
+816,蚊帐,mosquito net,28,4.892857143,0.875141712,26,2.538461538,1.475961225,Basic activities,Basic life activities
+817,蚊子,mosquito,26,2.538461538,0.859337849,28,5.142857143,2.0676393,Expanded activities,Others
+818,窝火,seethe with anger,30,2,0.946864153,29,7.655172414,1.203443336,Expanded activities,Psychology
+819,窝囊,wretched,27,2.333333333,0.784464541,27,5.592592593,2.080296933,Expanded activities,Psychology
+820,卧床,bedridden,30,2.333333333,1.184187,31,4.806451613,2.797848636,Basic activities,Nursing
+821,卧铺,sleeper,26,5.384615385,0.897860705,28,3,1.4401646,Expanded activities,Others
+822,无辜,innocent,29,3.413793103,1.524027591,31,4.35483871,2.229325565,Expanded activities,Psychology
+823,无聊,boring,29,3.793103448,1.497123679,25,2.48,1.636052159,Expanded activities,Psychology
+824,无奈,resignedly,21,3.047619048,0.589592272,27,4.444444444,1.928198309,Expanded activities,Psychology
+825,无线,wireless,28,5.321428571,0.772373515,30,3.3,1.725068714,Expanded activities,Communication
+826,午睡,nap,29,6.310344828,1.137147065,25,1.28,0.678232998,Basic activities,Basic life activities
+827,误会,misunderstand,25,2.64,1.254325848,28,5.892857143,1.547741143,Expanded activities,Psychology
+828,西餐,western-style food,26,5.730769231,1.185164708,28,3.357142857,1.496026483,Basic activities,Basic life activities
+829,西药,western medicine,24,4.333333333,1.049499536,28,4.035714286,1.773929366,Basic activities,Nursing
+830,希望,hope,31,6.967741935,1.016001016,30,5.066666667,1.680175141,Expanded activities,Psychology
+831,媳妇,daughter in law,28,5.821428571,1.306779231,28,4.107142857,1.969005873,Expanded activities,Communication
+832,洗手,handwashing,26,5.153846154,0.784464541,27,2.296296296,1.234591643,Basic activities,Basic life activities
+833,洗澡,bath,21,5.047619048,0.497613352,28,3.607142857,1.911743159,Basic activities,Basic life activities
+834,喜欢,like,28,7.678571429,1.020296668,29,4.827586207,2.018998435,Expanded activities,Psychology
+835,喜酒,wedding wine,29,7.724137931,0.882227365,26,6.115384615,1.632836136,Expanded activities,Others
+836,喜庆,festive,25,8.16,0.687992248,28,6.142857143,1.860192856,Expanded activities,Psychology
+837,喜事,happy event,26,8.115384615,0.908930056,28,6.071428571,1.608509119,Expanded activities,Others
+838,戏曲,drama,22,6.181818182,1.296014537,28,4.107142857,1.571488695,Expanded activities,Leisure
+839,细菌,germ,29,1.75862069,0.872401137,26,6.653846154,1.937881476,Basic activities,Nursing
+840,细心,careful,22,5.772727273,1.109775532,28,3.892857143,1.931019414,Expanded activities,Psychology
+841,下车,get off,30,5.966666667,1.564329389,30,3.3,1.914554058,Expanded activities,Others
+842,下岗,laid off,29,2.413793103,0.824501641,26,5.692307692,2.619453848,Expanded activities,Others
+843,下棋,play chess,30,5.7,1.263547278,25,1.96,1.619670748,Expanded activities,Leisure
+844,下雨,rain,28,3.892857143,1.39680285,26,3.461538462,2.319151038,Expanded activities,Others
+845,吓唬,frighten,29,2.413793103,0.907006118,27,7.074074074,1.517232448,Expanded activities,Psychology
+846,吓人,scary,25,2.44,1.293573861,28,6.964285714,1.752926502,Expanded activities,Psychology
+847,贤惠,virtuous,30,7.466666667,1.136641554,25,2.16,1.404753834,Expanded activities,Psychology
+848,现成,ready-made,28,5.535714286,0.881166855,24,2,1.251086484,Basic activities,Housework
+849,现金,cash,28,6.571428571,1.451144412,28,4.75,2.473938231,Basic activities,Consumption
+850,羡慕,admire,26,6.576923077,0.986836437,28,5.107142857,1.87259546,Expanded activities,Psychology
+851,相册,photo album,28,5.821428571,1.362284884,28,3.821428571,2.109126051,Expanded activities,Leisure
+852,相机,camera,29,5,1.035098339,26,3.346153846,1.874935896,Expanded activities,Leisure
+853,相亲,blind date,29,7.24137931,1.05746234,27,5.37037037,2.498432557,Expanded activities,Others
+854,相声,crosstalk,29,7,1.362770288,26,3.423076923,2.452314448,Expanded activities,Leisure
+855,相信,believe,30,6.5,1.717054414,31,4,2.352303835,Expanded activities,Psychology
+856,香蕉,banana,30,5.7,1.087547066,30,3.433333333,1.568731825,Basic activities,Basic life activities
+857,香皂,soap,30,5.566666667,1.47819399,30,2.6,1.940494071,Basic activities,Basic life activities
+858,箱子,box,29,4.896551724,0.673202771,30,3.033333333,1.542128697,Basic activities,Housework
+859,享受,enjoy,30,7.766666667,1.13512367,25,2.24,1.854723699,Expanded activities,Psychology
+860,象棋,chess,24,5,0.589767825,27,2.481481481,1.122167215,Expanded activities,Leisure
+861,消化,digestion,27,5.62962963,0.88353086,27,3.666666667,1.860521019,Basic activities,Nursing
+862,潇洒,chic,28,6.5,1.03637545,27,4.185185185,2.000712124,Expanded activities,Psychology
+863,小便,urinate,30,4.466666667,1.04166092,27,3.074074074,1.685365195,Basic activities,Basic life activities
+864,小品,sketch,28,6.571428571,1.372442306,27,4.814814815,2.202045151,Expanded activities,Leisure
+865,小气,mean,28,2.714285714,0.712696645,29,4.517241379,1.378940837,Expanded activities,Psychology
+866,小区,community,25,6.08,1.320353488,29,3.344827586,1.631735756,Expanded activities,Others
+867,孝敬,filial piety,22,7.409090909,1.221205139,28,4.892857143,2.39349869,Expanded activities,Psychology
+868,孝顺,filial piety,26,7.269230769,1.537730596,29,5.517241379,2.213928145,Basic activities,Nursing
+869,孝心,filial piety,30,7.266666667,1.436790805,31,4.483870968,2.631488397,Expanded activities,Psychology
+870,哮喘,asthma,28,2.714285714,1.013141168,28,5.785714286,1.595297322,Basic activities,Nursing
+871,笑脸,smiley,28,7.964285714,0.922241346,29,5.172413793,2.237169218,Expanded activities,Psychology
+872,写字,write,30,5.766666667,1.250746903,30,2.766666667,1.695497757,Expanded activities,Leisure
+873,谢谢,thanks,28,7.535714286,1.035737092,27,4.296296296,1.937778562,Expanded activities,Communication
+874,心寒,chilling,28,2.642857143,0.826159599,29,5.620689655,1.916354297,Expanded activities,Psychology
+875,心慌,flustered,27,2.740740741,0.655895899,28,5.392857143,1.448863813,Expanded activities,Psychology
+876,心酸,sad,29,2.206896552,0.818505186,27,6.185185185,1.840506557,Expanded activities,Psychology
+877,心跳,heartbeat,30,5.066666667,1.928610959,26,4.923076923,2.331061165,Basic activities,Nursing
+878,心虚,guilty conscience,26,3.307692308,1.225372785,29,5.137931034,1.746918469,Expanded activities,Psychology
+879,心脏,heart,28,4.214285714,1.286889528,28,4.428571429,2.133134911,Basic activities,Nursing
+880,辛酸,bitter,22,2.545454545,1.010764573,28,5.642857143,1.496026483,Expanded activities,Psychology
+881,欣慰,gratified,27,7.074074074,0.729906523,27,4.259259259,1.89315757,Expanded activities,Psychology
+882,新郎,bridegroom,22,6.590909091,1.333062743,28,4.857142857,2.272448275,Expanded activities,Others
+883,新娘,bride,28,7.428571429,1.069044968,29,4.689655172,2.56492061,Expanded activities,Others
+884,新闻,news,22,5.772727273,1.30682524,28,4.392857143,2.096545407,Expanded activities,Leisure
+885,新鲜,fresh,28,6.892857143,1.100144291,27,4.037037037,2.120984559,Basic activities,Housework
+886,信号,signal,27,5.111111111,0.69798244,27,3.222222222,1.502135232,Expanded activities,Communication
+887,信任,trust,28,6.821428571,1.218790275,29,4.724137931,2.373914063,Expanded activities,Psychology
+888,行李,luggage,29,4.862068966,0.742781353,31,2.612903226,1.453212977,Expanded activities,Others
+889,兴奋,excited,27,7.518518519,1.122167215,27,6.703703704,1.381604831,Expanded activities,Psychology
+890,幸福,happiness,29,7.965517241,0.731083277,30,5.233333333,2.238893405,Expanded activities,Psychology
+891,性格,cha,28,5.214285714,0.956736074,30,3.333333333,1.787568824,Expanded activities,Psychology
+892,兄弟,brother,30,5.766666667,1.278019301,27,3.703703704,1.814785743,Expanded activities,Communication
+893,休息,rest,25,5.56,0.820568908,27,2.555555556,1.450022104,Basic activities,Basic life activities
+894,休闲,casual,21,5.904761905,0.889087279,28,3.357142857,1.909319943,Expanded activities,Leisure
+895,羞涩,shy,21,3.714285714,1.10194633,27,4,1.441153384,Expanded activities,Psychology
+896,虚弱,weak,30,2.733333333,1.014832527,27,5.074074074,2.036700309,Basic activities,Nursing
+897,炫耀,show off,30,6.533333333,1.431982791,27,6.037037037,1.828860122,Expanded activities,Psychology
+898,学问,knowledge,22,6.818181818,1.258735709,27,5.407407407,2.223290342,Expanded activities,Others
+899,学习,learn,26,5.769230769,1.274604011,29,4.310344828,1.692492842,Expanded activities,Leisure
+900,学校,school,28,5.392857143,0.785954749,30,3.166666667,1.641768041,Expanded activities,Others
+901,血糖,blood sugar,30,4,1.438389904,29,4.586206897,2.044456641,Basic activities,Nursing
+902,血压,blood pressure,26,4.307692308,1.158248014,27,4.222222222,1.154700538,Basic activities,Nursing
+903,丫头,girl,29,4.965517241,1.117483097,27,2.740740741,1.129758061,Expanded activities,Communication
+904,压力,pressure,26,2.884615385,0.993052791,28,5.678571429,1.467009339,Expanded activities,Psychology
+905,押金,deposit,27,3.888888889,1.28102523,28,4.071428571,1.463850109,Basic activities,Consumption
+906,牙膏,toothpaste,30,4.7,0.4660916,26,2.153846154,1.18969938,Basic activities,Basic life activities
+907,牙刷,toothbrush,25,5.08,0.571547607,28,2,0.942809042,Basic activities,Basic life activities
+908,延误,delay,26,2.846153846,1.222859197,29,5.24137931,1.550464732,Expanded activities,Others
+909,严格,strict,22,4.954545455,1.132938561,28,4.428571429,1.894017314,Expanded activities,Psychology
+910,严谨,rigorous,29,4.827586207,1.071346466,30,3.8,1.845778034,Expanded activities,Psychology
+911,严厉,severe,27,3.666666667,1.074172311,29,5.620689655,1.916354297,Expanded activities,Psychology
+912,严肃,serious,28,4.464285714,1.452511053,31,3.870967742,1.910356607,Expanded activities,Psychology
+913,眼镜,glasses,25,5.64,1.496662955,29,2.75862069,1.527256467,Expanded activities,Leisure
+914,眼科,ophthalmology,30,4,1.856953382,26,3.730769231,2.721142294,Basic activities,Nursing
+915,眼泪,tears,30,2.6,1.132589343,31,5.516129032,2.219173536,Expanded activities,Psychology
+916,厌恶,disgust,27,2.37037037,0.838870493,28,6,2.108185107,Expanded activities,Psychology
+917,厌烦,bored,30,2.5,0.861033861,31,6.387096774,1.838068177,Expanded activities,Psychology
+918,厌倦,tired of,28,3.035714286,0.83808171,29,5.206896552,1.839629434,Expanded activities,Psychology
+919,阳光,sunlight,30,7.766666667,1.040004421,31,5.225806452,2.704436817,Expanded activities,Others
+920,阳台,balcony,27,5.481481481,1.188741104,27,2.148148148,1.099080164,Basic activities,Housework
+921,阳性,positive,26,2.692307692,1.5432234,28,5.25,2.136542725,Basic activities,Nursing
+922,养老,nursing service for older adults,26,5.923076923,1.809377283,29,5,1.963961012,Basic activities,Nursing
+923,养生,keep in good health,26,6.461538462,1.066987131,28,3.607142857,2.183087954,Basic activities,Consumption
+924,药店,pharmacy,27,3.740740741,1.318291219,28,4.571428571,1.814112811,Basic activities,Nursing
+925,药费,medicine fee,29,3.517241379,1.18384029,30,4.866666667,2.501493807,Basic activities,Consumption
+926,药片,pill,22,4.045454545,0.998917163,27,3.111111111,1.28102523,Basic activities,Nursing
+927,钥匙,key,27,4.962962963,0.436901809,27,2.185185185,1.001423488,Expanded activities,Others
+928,爷爷,grandfather,28,6.214285714,1.474653578,29,3.103448276,1.988266071,Expanded activities,Communication
+929,业务,business,26,4.961538462,0.445490223,29,3.034482759,1.569412051,Expanded activities,Others
+930,夜班,night shift,28,3.857142857,1.078898125,28,3.928571429,1.719788347,Expanded activities,Others
+931,衣服,clothing,30,6.166666667,1.440386283,31,3.741935484,2.657915749,Basic activities,Basic life activities
+932,衣架,coat hanger,28,5.464285714,0.999338405,24,1.375,0.710939366,Basic activities,Housework
+933,医生,doctor,22,4.681818182,1.170525468,27,4.444444444,1.783111656,Basic activities,Nursing
+934,医院,hospital,30,2.666666667,1.422318004,26,4.961538462,2.821074536,Basic activities,Nursing
+935,姨父,uncle,26,5.346153846,1.129329277,27,2.851851852,1.406132276,Expanded activities,Communication
+936,姨妈,aunt,30,5.633333333,1.629117242,31,3.322580645,1.904155049,Expanded activities,Communication
+937,遗产,heritage,28,6.285714286,1.487158435,29,4.965517241,2.321987428,Basic activities,Consumption
+938,遗憾,what a pity,26,2.923076923,0.560219737,27,5.37037037,1.522855318,Expanded activities,Psychology
+939,疑惑,confuse,26,3.769230769,1.106623416,29,5.034482759,1.592005892,Expanded activities,Psychology
+940,疑心,suspicion,27,3.333333333,0.877058019,26,5,1.232882801,Expanded activities,Psychology
+941,抑郁,depression,26,2.115384615,0.863801972,27,7.037037037,1.400040699,Expanded activities,Psychology
+942,疫苗,vaccine,26,5.076923077,1.354195759,28,4.857142857,1.97604704,Basic activities,Nursing
+943,疫情,epidemic,28,2.142857143,1.145499591,28,6.321428571,2.161165177,Basic activities,Nursing
+944,意见,opinion,29,4.206896552,1.235756285,26,4.153846154,2.493067311,Expanded activities,Communication
+945,阴天,cloudy day,28,3.964285714,1.201300001,27,3.888888889,2.258885589,Expanded activities,Others
+946,阴性,feminine,29,5.275862069,2.548060211,26,2.961538462,2.615045227,Basic activities,Nursing
+947,音乐,music,30,7.466666667,1.27936766,31,5.161290323,2.450806319,Expanded activities,Leisure
+948,银行,bank,25,5.76,1.090871211,28,3.428571429,1.951800146,Basic activities,Consumption
+949,营养,nutrition,21,6.095238095,0.83094897,27,3.296296296,1.750050874,Basic activities,Consumption
+950,硬朗,hale and hearty,26,6.461538462,1.139500565,29,4,2.035400978,Basic activities,Nursing
+951,拥护,support,30,6.5,1.252583537,27,5,2.465141594,Expanded activities,Psychology
+952,拥挤,crowded,27,2.962962963,0.807726224,27,5.925925926,1.567112139,Expanded activities,Others
+953,勇敢,brave,26,6.538461538,1.630478929,27,6.111111111,1.395964881,Expanded activities,Psychology
+954,优惠,discount,28,6.75,1.004618962,27,5,1.921537846,Basic activities,Consumption
+955,优先,priority,22,6.636363636,1.048602451,28,4.285714286,1.978722799,Expanded activities,Others
+956,优秀,excellent,30,7.966666667,1.245220749,26,3.769230769,2.832775209,Expanded activities,Psychology
+957,幽默,humor,26,6.115384615,1.531715981,27,3.555555556,1.739436985,Expanded activities,Psychology
+958,邮局,post office,30,5.833333333,1.533158411,30,2.333333333,1.561019413,Expanded activities,Others
+959,油条,deep-fried dough sticks,28,5.035714286,1.231745009,28,2.321428571,1.467009339,Basic activities,Basic life activities
+960,游戏,game,29,6.034482759,1.117483097,27,4.777777778,1.908147175,Expanded activities,Leisure
+961,友好,friendly,30,7.2,1.126483696,27,3.62962963,2.221367357,Expanded activities,Psychology
+962,友谊,friendship,28,7.142857143,0.890870806,28,3.821428571,1.925531604,Expanded activities,Communication
+963,有趣,interesting,22,6.363636364,0.84771146,28,4.75,1.797632187,Expanded activities,Psychology
+964,余额,money left,28,6.821428571,1.156417566,29,3.965517241,1.972720359,Basic activities,Consumption
+965,雨伞,umbrella,21,4.952380952,0.384212243,27,3.037037037,1.531250908,Expanded activities,Others
+966,雨鞋,rain boots,26,4.961538462,0.445490223,27,2.740740741,1.534039228,Expanded activities,Others
+967,郁闷,depressed,29,2.379310345,0.862462964,27,5.851851852,2.051335469,Expanded activities,Psychology
+968,预约,reserve,31,5.516129032,0.995689635,30,3.666666667,1.708666214,Basic activities,Nursing
+969,欲望,desire,30,5.5,1.907336109,29,4.689655172,1.466371817,Expanded activities,Psychology
+970,冤枉,wronged,30,1.966666667,0.850287308,26,7.423076923,1.238485427,Expanded activities,Psychology
+971,员工,staff,29,5.103448276,0.673202771,30,3.3,1.5346571,Expanded activities,Others
+972,怨恨,resentment,29,2.275862069,0.921820858,26,5.538461538,2.370329416,Expanded activities,Psychology
+973,愿望,desire,30,6.333333333,1.241059984,27,5.074074074,1.838183173,Expanded activities,Psychology
+974,岳父,father in law,28,5.571428571,1.259881577,28,2.035714286,0.881166855,Expanded activities,Communication
+975,岳母,mother in law,22,5.409090909,0.666125321,28,3.321428571,1.906199854,Expanded activities,Communication
+976,晕倒,faint,25,2.24,1.128420725,29,6.827586207,1.559967159,Basic activities,Nursing
+977,再见,goodbye,29,5.75862069,1.618093508,30,5.033333333,1.650148025,Expanded activities,Communication
+978,在乎,care,27,5.148148148,1.261979632,28,4.678571429,2.037674263,Expanded activities,Psychology
+979,赞美,praise,26,7.423076923,1.064822123,28,5.357142857,2.129411077,Expanded activities,Psychology
+980,赞同,agree,28,6.642857143,0.780042056,29,3.482758621,1.572547743,Expanded activities,Psychology
+981,早市,morning market,30,5.433333333,1.735696885,31,3.258064516,1.806797202,Basic activities,Consumption
+982,责任,responsibility,30,5.066666667,1.080655399,30,4.333333333,1.493279966,Expanded activities,Psychology
+983,诈骗,fraud,26,1.730769231,0.77757018,28,8.178571429,0.611832186,Basic activities,Consumption
+984,占线,the line is busy,28,3.392857143,1.065947178,27,4.444444444,1.783111656,Expanded activities,Communication
+985,战友,comrades in arms,28,7.178571429,0.904866326,29,4.517241379,2.399712626,Expanded activities,Communication
+986,长辈,elder,22,6.5,1.144344271,28,4.392857143,2.216759158,Expanded activities,Communication
+987,长寿,longevity,28,8.142857143,0.84827868,26,2.846153846,2.838200947,Expanded activities,Communication
+988,丈夫,husband,29,6.689655172,1.605869775,31,3.677419355,2.087855307,Expanded activities,Communication
+989,账单,bill,27,4.074074074,1.298695379,27,4.62962963,1.445101757,Basic activities,Consumption
+990,照顾,take care of,28,5.5,1.319371343,29,3.793103448,1.611993228,Basic activities,Nursing
+991,照看,look after,27,5.185185185,1.110683678,28,3.75,1.456149158,Basic activities,Nursing
+992,照片,photo,30,6.333333333,1.321789105,25,1.64,1.113552873,Expanded activities,Leisure
+993,折扣,discount,26,6.038461538,1.455493572,27,4.888888889,1.739436985,Basic activities,Consumption
+994,折腾,toss,28,3.107142857,1.030615987,28,5.964285714,1.643892014,Expanded activities,Psychology
+995,着急,in a hurry,31,2.548387097,0.809885164,30,6.6,1.328727678,Expanded activities,Psychology
+996,针灸,acupuncture,30,3.633333333,1.098065174,27,4.740740741,1.872731296,Basic activities,Nursing
+997,珍惜,cherish,22,6.545454545,1.14339814,28,4.607142857,1.663091403,Expanded activities,Psychology
+998,真诚,sincere,29,7.413793103,1.150069606,25,2.16,1.841195264,Expanded activities,Psychology
+999,真实,reality,26,6.115384615,1.531715981,29,4.689655172,2.054671477,Expanded activities,Others
+1000,诊所,clinic,30,4.033333333,1.033351872,27,4.740740741,1.872731296,Basic activities,Nursing
+1001,枕巾,pillow towel,30,5.1,1.093870067,30,2.8,1.627352409,Basic activities,Basic life activities
+1002,枕头,pillow,20,4.95,0.223606798,27,2.740740741,1.456882673,Basic activities,Basic life activities
+1003,震惊,shock,30,3.4,1.302517456,30,7,1.339068127,Expanded activities,Psychology
+1004,争吵,quarrel,27,1.888888889,0.891555828,25,7.68,1.180395414,Expanded activities,Psychology
+1005,整理,tidy,21,4.952380952,0.497613352,28,3.857142857,1.757824533,Basic activities,Housework
+1006,症状,symptom,29,3.379310345,1.590458,30,4.633333333,1.920548293,Basic activities,Nursing
+1007,支出,expenditure,27,4.259259259,1.095185007,27,3.925925926,1.858989095,Basic activities,Consumption
+1008,支付,to pay,29,4.827586207,1.311187181,25,1.8,1.118033989,Basic activities,Consumption
+1009,知道,know,25,5.12,0.6,28,2.714285714,1.272418021,Expanded activities,Psychology
+1010,知识,knowledge,28,5.892857143,1.59488269,29,3.034482759,1.592005892,Expanded activities,Others
+1011,执行,implement,28,4.607142857,1.100144291,28,4.5,2.009237924,Expanded activities,Psychology
+1012,侄女,niece,26,6.076923077,1.230384555,27,2.62962963,1.390853312,Expanded activities,Communication
+1013,侄子,nephew,28,5.714285714,1.212806444,28,2.642857143,1.41981443,Expanded activities,Communication
+1014,值班,on duty,24,5.5,1.414213562,28,3.571428571,1.501322169,Expanded activities,Others
+1015,纸巾,tissue,28,5.357142857,0.9893614,24,1.333333333,0.701964118,Basic activities,Basic life activities
+1016,纸牌,card,29,4.75862069,1.184880115,30,3.666666667,1.93574958,Expanded activities,Leisure
+1017,纸箱,paper box,21,4.857142857,0.358568583,27,2.111111111,1.012739367,Basic activities,Housework
+1018,治病,cure,28,2.571428571,0.959497223,27,5.555555556,1.086041979,Basic activities,Nursing
+1019,智能,intelligence,29,6.724137931,1.221724534,24,2.541666667,1.667572218,Expanded activities,Communication
+1020,中毒,poisoning,29,1.551724138,0.783135041,30,7.3,1.878186947,Basic activities,Nursing
+1021,中风,stroke,30,1.5,0.731083277,30,7.333333333,1.787568824,Basic activities,Nursing
+1022,中药,traditional chinese medicine,22,4.045454545,0.950051263,27,3.777777778,1.395964881,Basic activities,Nursing
+1023,中医,chinese medicine,30,3.766666667,1.430778263,27,4,1.961161351,Basic activities,Nursing
+1024,忠厚,loyal,30,6.4,1.354430788,24,1.791666667,1.102533315,Expanded activities,Psychology
+1025,肿瘤,tumor,28,1.607142857,0.737326789,28,7.571428571,1.288943622,Basic activities,Nursing
+1026,重逢,reunion,30,7.866666667,1.224275531,31,6.548387097,2.277991947,Expanded activities,Communication
+1027,住院,be hospitalized,30,2.166666667,1.234094205,30,6.233333333,1.75545128,Basic activities,Nursing
+1028,注意,notice,30,5.333333333,1.582955188,29,3.724137931,1.666830862,Expanded activities,Psychology
+1029,专家,expert,26,5.884615385,1.4512594,29,4.344827586,1.778359237,Basic activities,Nursing
+1030,转院,transfer from one hospital to another,26,2.807692308,1.414757386,27,6.444444444,1.423250163,Basic activities,Nursing
+1031,转账,transfer accounts,28,5.285714286,1.696557361,29,3.689655172,2.019608312,Basic activities,Consumption
+1032,装修,furnish,22,4.545454545,1.738287957,28,5.321428571,1.826828286,Basic activities,Consumption
+1033,准备,prepare,21,5.095238095,0.538958431,27,3.62962963,1.418236938,Expanded activities,Others
+1034,子女,sons and daughters,26,6.846153846,1.255143265,28,3.321428571,2.261654121,Expanded activities,Communication
+1035,自卑,self-abasement,25,2.84,0.898146239,28,5.357142857,1.76832806,Expanded activities,Psychology
+1036,自动,automatic,30,4.9,0.922889017,26,2.807692308,1.357032963,Expanded activities,Communication
+1037,自费,own expense,29,4.172413793,2.05407201,31,4.129032258,2.028824544,Basic activities,Consumption
+1038,自豪,pride,30,7.8,0.8051558,27,6.592592593,1.448055972,Expanded activities,Psychology
+1039,自理,take care of oneself,22,5.181818182,1.40191582,28,4,1.784708712,Basic activities,Nursing
+1040,自信,confidence,28,6.178571429,1.156417566,28,3.321428571,1.700840129,Expanded activities,Psychology
+1041,自在,comfortable,28,5.678571429,1.020296668,29,3.344827586,1.932353526,Expanded activities,Psychology
+1042,走路,walk,30,5.7,1.087547066,30,3.466666667,1.978040363,Basic activities,Basic life activities
+1043,走失,lost,28,2.464285714,0.744468135,26,6.692307692,1.378962821,Expanded activities,Others
+1044,租金,rent,30,5.066666667,1.740656502,30,4.266666667,2.180372213,Basic activities,Consumption
+1045,钻戒,diamond ring,30,8.1,1.348050956,26,3.807692308,2.939649377,Expanded activities,Others
+1046,尊敬,respect,22,7,1.112697281,27,4.703703704,2.127020574,Expanded activities,Psychology
+1047,尊重,respect,27,6.185185185,1.415220479,29,3.310344828,1.929164295,Expanded activities,Psychology
+1048,作业,homework,31,4.64516129,1.081615677,30,3.9,1.647359434,Expanded activities,Others
+1049,座机,landline,26,5.269230769,0.77757018,28,3.178571429,1.785820103,Expanded activities,Communication
+1050,做饭,cook,21,4.904761905,0.83094897,28,3.678571429,1.764958743,Basic activities,Housework
