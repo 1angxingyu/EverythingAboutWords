@@ -385,5 +385,14 @@
     "year": "2024",
     "description": "Tang, E., Fan, X., Fang, R., Zhang, Y., Gong, J., Guan, J., & Ding, H. (2024). Not perceptually equivalent in semantic emotion across visual and auditory modalities: Cross-modal affective norms of two-character Chinese emotion-label words. Current Psychology, 43(17), 15308-15327.",
     "filename": "datasets/zh/VISUALAUDI.zip"
+  },
+  {
+    "id": 44,
+    "title": "中英文翻译对等词的语义协同度(translation)",
+    "language": "Chinese",
+    "category": "Translation",
+    "year": "2025",
+    "description": "Liu, Y., Chen, S. & Yang, Y. Semantic alignment: A measure to quantify the degree of semantic equivalence for English–Chinese translation equivalents based on distributional semantics. Behav Res 57, 51 (2025). https://doi.org/10.3758/s13428-024-02527-9",
+    "filename": "datasets/zh/English-Chinese translation equivalent datasets with semantic alignment and shared semantic associates.xlsx"
   }
 ]
