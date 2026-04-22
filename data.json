@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "title": "4997个词汇的幽默度常模(Word Association)",
+    "title": "大规模英文词汇联想",
     "language": "English",
     "category": "Word Association",
     "year": "2019",
@@ -457,5 +457,50 @@
     "year": "2014",
     "description": "Wang L, Chen CW, Zhu L. Picture norms for Chinese preschool children: name agreement, familiarity, and visual complexity. PLoS One. 2014 Mar 5;9(3):e90450. doi: 10.1371/journal.pone.0090450.",
     "filename": "datasets/zh/pone.0090450.s001.xlsx"
+  },
+  {
+    "id": 52,
+    "title": "英文词汇的特异性量表(specificity)",
+    "language": "English",
+    "category": "Concreteness",
+    "year": "2026",
+    "description": "Muraki, E.J., Pexman, P.M. Distinguishing abstraction from abstractness: Specificity norms for 8,500 English words. Behav Res 58, 60 (2026). https://doi.org/10.3758/s13428-026-02949-7",
+    "filename": "datasets/en/Specificity_Ratings_Eng.04.17.2025.csv"
+  },
+  {
+    "id": 53,
+    "title": "2276个单词的嘴部及面部信息量常模",
+    "language": "English",
+    "category": "Sensory",
+    "year": "2023",
+    "description": "Krason, A., Zhang, Y., Man, H. et al. Mouth and facial informativeness norms for 2276 English words. Behav Res 56, 4786–4801 (2024). https://doi.org/10.3758/s13428-023-02216-z",
+    "filename": "datasets/en/MAFINorms.zip"
+  },
+  {
+    "id": 54,
+    "title": "8826个英文词汇的cognition rating",
+    "language": "English",
+    "category": "Other",
+    "year": "2025",
+    "description": "Corenblum, H.T., Pexman, P.M. Cognition ratings for 8826 english words. Behav Res 57, 181 (2025). https://doi.org/10.3758/s13428-025-02663-w",
+    "filename": "datasets/en/Cognition Rating  Norms.xlsx"
+  },
+  {
+    "id": 55,
+    "title": "14000+个英文词汇的Iconicity rating",
+    "language": "English",
+    "category": "Other",
+    "year": "2023",
+    "description": "Winter, B., Lupyan, G., Perry, L.K. et al. Iconicity ratings for 14,000+ English words. Behav Res 56, 1640–1655 (2024). https://doi.org/10.3758/s13428-023-02112-6",
+    "filename": "datasets/en/iconicity_ratings_cleaned.csv"
+  },
+  {
+    "id": 56,
+    "title": "20000+个英文词汇拼读一致性常模",
+    "language": "English",
+    "category": "Consistency",
+    "year": "2023",
+    "description": "Edwards, A.A., Rigobon, V.M., Steacy, L.M. et al. Spelling-to-pronunciation transparency ratings for the 20,000 most frequently written English words. Behav Res 56, 2828–2841 (2024). https://doi.org/10.3758/s13428-023-02205-2",
+    "filename": "datasets/en/spelling_to_pronunciation_transparency_ratings.csv"
   }
 ]
