@@ -403,5 +403,14 @@
     "year": "2003",
     "description": "Bates, E., D’Amico, S., Jacobsen, T. et al. Timed picture naming in seven languages. Psychonomic Bulletin & Review 10, 344–380 (2003). https://doi.org/10.3758/BF03196494",
     "filename": "datasets/mult/7lgpno.xls"
+  },
+  {
+    "id": 46,
+    "title": "200个物体的图片命名反应时常模",
+    "language": "English",
+    "category": "Reaction Time",
+    "year": "2024",
+    "description": "van Hoef, R., Lynott, D. & Connell, L. Timed picture naming norms for 800 photographs of 200 objects in English. Behav Res 56, 6655–6672 (2024). https://doi.org/10.3758/s13428-024-02380-w",
+    "filename": "datasets/mult/van_Hoef_et_al_picture_naming_NORMS.csv"
   }
 ]
