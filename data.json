@@ -421,5 +421,41 @@
     "year": "2024",
     "description": "Siegelman, N., Schroeder, S., Acartürk, C. et al. Expanding horizons of cross-linguistic research on reading: The Multilingual Eye-movement Corpus (MECO). Behav Res 54, 2843–2863 (2022). https://doi.org/10.3758/s13428-021-01772-6",
     "filename": "datasets/mult/joint_data_trimmed.rda"
+  },
+  {
+    "id": 48,
+    "title": "多种范式下图片命名行为学指标",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2024",
+    "description": "Feng, C., Damian, M.F. & Qu, Q. A dataset of behavioral measures on Chinese word production in picture naming. Sci Data 11, 185 (2024). https://doi.org/10.1038/s41597-024-03022-8",
+    "filename": "datasets/zh/Rawdata_qqq.csv"
+  },
+  {
+    "id": 49,
+    "title": "图片命名任务反应时常模",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2024",
+    "description": "Liu Y, Hao M, Li P, Shu H. Timed picture naming norms for Mandarin Chinese. PLoS One. 2011 Jan 26;6(1):e16505. doi: 10.1371/journal.pone.0016505.",
+    "filename": "datasets/zh/pone.0016505.s001.doc"
+  },
+  {
+    "id": 50,
+    "title": "汉语单双语者图片命名任务反应时",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2021",
+    "description": "Momenian, M., Bakhtiar, M., Chan, Y.K. et al. Picture naming in bilingual and monolingual Chinese speakers: Capturing similarity and variability. Behav Res 53, 1677–1688 (2021). https://doi.org/10.3758/s13428-020-01521-1",
+    "filename": "datasets/zh/NormativeData.zip"
+  },
+  {
+    "id": 51,
+    "title": "汉语学前儿童图片命名常模",
+    "language": "Chinese",
+    "category": "Reaction Time",
+    "year": "2014",
+    "description": "Wang L, Chen CW, Zhu L. Picture norms for Chinese preschool children: name agreement, familiarity, and visual complexity. PLoS One. 2014 Mar 5;9(3):e90450. doi: 10.1371/journal.pone.0090450.",
+    "filename": "datasets/zh/pone.0090450.s001.xlsx"
   }
 ]
