@@ -412,5 +412,14 @@
     "year": "2024",
     "description": "van Hoef, R., Lynott, D. & Connell, L. Timed picture naming norms for 800 photographs of 200 objects in English. Behav Res 56, 6655–6672 (2024). https://doi.org/10.3758/s13428-024-02380-w",
     "filename": "datasets/mult/van_Hoef_et_al_picture_naming_NORMS.csv"
+  },
+  {
+    "id": 47,
+    "title": "MECO:多语言阅读眼动数据库(这里下载的是每个词的眼动指标)",
+    "language": "Multilingual",
+    "category": "Reaction Time",
+    "year": "2024",
+    "description": "Siegelman, N., Schroeder, S., Acartürk, C. et al. Expanding horizons of cross-linguistic research on reading: The Multilingual Eye-movement Corpus (MECO). Behav Res 54, 2843–2863 (2022). https://doi.org/10.3758/s13428-021-01772-6",
+    "filename": "datasets/mult/joint_data_trimmed.rda"
   }
 ]
