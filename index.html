@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Everything About Words</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Noto+Serif+SC:wght@400;700&display=swap"
+        rel="stylesheet"
+    />
 </head>
 <body>
 
@@ -18,35 +21,22 @@
     </header>
 
     <main class="container">
-        <div class="filters main-filters">
+        <div class="filters main-filters" id="language-container">
             <span class="filter-label">Language:</span>
             <button class="filter-btn lang-btn active" data-lang="all">All</button>
-            <button class="filter-btn lang-btn" data-lang="Chinese">Chinese</button>
-            <button class="filter-btn lang-btn" data-lang="English">English</button>
-
         </div>
 
         <div class="filters sub-filters" id="category-container">
             <span class="filter-label">Category:</span>
             <button class="filter-btn cat-btn active" data-cat="all">All Topics</button>
-            </div>
-
-        <div id="dataset-list" class="dataset-grid">
-            </div>
-        </div> <div class="like-section">
-            <p class="like-text">Like it if you feel it useful</p>
-            <button id="like-btn" class="like-btn" aria-label="Like this repository">
-                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M14 9V5C14 3.89543 13.1046 3 12 3C10.8954 3 10 3.89543 10 5V9H5C3.89543 9 3 9.89543 3 11V17C3 18.1046 3.89543 19 5 19H19C19.93 19 20.7333 18.3751 20.9382 17.5028L21.9382 13.2475C22.0913 12.5959 21.5976 12 20.9276 12H16.8926C16.8286 11.9682 16.7 11.8889 16.5 11.5C16.1 10.7222 15.2 9.4 14 9Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-            </button>
-            <div id="like-count" class="like-count">...</div>
         </div>
+
+        <div id="dataset-list" class="dataset-grid"></div>
     </main>
 
     <footer>
         <div class="container">
-            <p>Maintained by Xingyu Yang; Research Use Only; Last Updated: 2026-01-22</p>
+            <p>Maintained by Xingyu Yang; Research Use Only; Last Updated: 2026-04-22</p>
         </div>
     </footer>
 

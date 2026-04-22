@@ -362,11 +362,11 @@
   {
     "id": 41,
     "title": "有英语常模对照的汉语词汇情感常模(Valence/Arousal等)",
-    "language": "Chinese",
+    "language": "Multilingual",
     "category": "Valence/Arousal",
     "year": "2025",
     "description": "Yi, W., Xu, H., & Man, K. (2025). Perception of emotion across cultures: Norms of valence, arousal, and sensory experience for 4923 Chinese words translated from English in Warriner et al.(2013). Behavior Research Methods, 57(1), 43.",
-    "filename": "datasets/zh/emotion.en.ch.csv"
+    "filename": "datasets/mult/emotion.en.ch.csv"
   },
   {
     "id": 42,
@@ -389,10 +389,19 @@
   {
     "id": 44,
     "title": "中英文翻译对等词的语义协同度(translation)",
-    "language": "Chinese",
+    "language": "Multilingual",
     "category": "Translation",
     "year": "2025",
     "description": "Liu, Y., Chen, S. & Yang, Y. Semantic alignment: A measure to quantify the degree of semantic equivalence for English–Chinese translation equivalents based on distributional semantics. Behav Res 57, 51 (2025). https://doi.org/10.3758/s13428-024-02527-9",
-    "filename": "datasets/zh/English-Chinese translation equivalent datasets with semantic alignment and shared semantic associates.xlsx"
+    "filename": "datasets/mult/English-Chinese translation equivalent datasets with semantic alignment and shared semantic associates.xlsx"
+  },
+  {
+    "id": 45,
+    "title": "7种语言的图片命名反应时常模",
+    "language": "Multilingual",
+    "category": "Reaction Time",
+    "year": "2003",
+    "description": "Bates, E., D’Amico, S., Jacobsen, T. et al. Timed picture naming in seven languages. Psychonomic Bulletin & Review 10, 344–380 (2003). https://doi.org/10.3758/BF03196494",
+    "filename": "datasets/mult/7lgpno.xls"
   }
 ]
